@@ -1,0 +1,1401 @@
+sale_id,sale_date,province,product_category,product_name,customer_type,payment_method,quantity,unit_price,total_sales
+1,2024-01-21,Mpumalanga,Home,Kettle,Returning,EFT,3,1173.94,3521.82
+2,2024-05-31,Eastern Cape,Clothing,Jacket,Returning,Cash,5,909.65,4548.25
+3,2024-10-03,Gauteng,Electronics,Phone Charger,Returning,Card,2,289.1,578.2
+4,2024-06-18,Eastern Cape,Beauty,Shampoo,Returning,EFT,1,796.67,796.67
+5,2024-05-14,Free State,Home,Kettle,New,EFT,3,1292.71,3878.13
+6,2024-09-21,Free State,Electronics,Headphones,Returning,Mobile Payment,4,853.67,3414.68
+7,2024-09-20,Eastern Cape,Home,Microwave,Returning,Cash,4,200.62,802.48
+8,2024-02-23,KwaZulu-Natal,Home,Iron,Returning,Cash,4,481.33,1925.32
+9,2024-09-26,North West,Electronics,Phone Charger,Returning,EFT,4,1410.46,5641.84
+10,2024-12-03,Free State,Home,Kettle,Returning,Card,5,595.24,2976.2
+11,2024-02-10,Gauteng,Groceries,Cooking Oil,New,EFT,4,823.19,3292.76
+12,2024-03-03,Eastern Cape,Groceries,Cooking Oil,New,Mobile Payment,1,314.1,314.1
+13,2024-08-18,Northern Cape,Clothing,Jacket,Returning,EFT,1,916.82,916.82
+14,2024-02-17,Mpumalanga,Groceries,Cooking Oil,New,Card,4,509.73,2038.92
+15,2024-02-04,Gauteng,Beauty,Perfume,New,Cash,4,963.59,3854.36
+16,2024-09-11,Mpumalanga,Clothing,T-Shirt,New,Cash,5,850.69,4253.45
+17,2024-03-03,Mpumalanga,Electronics,Phone Charger,New,Mobile Payment,4,179.68,718.72
+18,2024-08-24,KwaZulu-Natal,Beauty,Lotion,New,Mobile Payment,5,388.95,1944.75
+19,2024-02-14,Northern Cape,Clothing,Jacket,New,Card,4,1395.95,5583.8
+20,2024-12-13,Northern Cape,Home,Iron,New,Card,3,500.03,1500.09
+21,2024-04-30,KwaZulu-Natal,Groceries,Bread,New,Cash,1,978.58,978.58
+22,2024-06-13,Gauteng,Clothing,Jacket,New,Card,3,637.77,1913.31
+23,2024-04-05,North West,Home,Microwave,New,Mobile Payment,3,498.34,1495.02
+24,2024-09-24,Mpumalanga,Groceries,Milk,Returning,EFT,1,395.79,395.79
+25,2024-07-05,Gauteng,Groceries,Bread,Returning,Card,1,1496.66,1496.66
+26,2024-05-05,Western Cape,Home,Iron,New,Mobile Payment,5,530.71,2653.55
+27,2024-07-02,Gauteng,Electronics,Phone Charger,New,Card,4,139.66,558.64
+28,2024-05-23,Gauteng,Beauty,Lotion,New,Mobile Payment,3,1228.32,3684.96
+29,2024-09-08,KwaZulu-Natal,Clothing,Jeans,New,Card,5,1290.37,6451.85
+30,2024-07-17,KwaZulu-Natal,Clothing,Jacket,New,Cash,3,536.03,1608.09
+31,2024-05-30,Eastern Cape,Electronics,Headphones,New,Mobile Payment,3,524.78,1574.34
+32,2024-01-02,Gauteng,Electronics,Headphones,Returning,Card,4,803.88,3215.52
+33,2024-01-09,Northern Cape,Home,Kettle,New,EFT,5,1326.3,6631.5
+34,2024-03-15,Gauteng,Clothing,Jeans,Returning,Mobile Payment,1,970.21,970.21
+35,2024-04-08,Northern Cape,Home,Iron,New,Card,3,570.98,1712.94
+36,2024-06-17,KwaZulu-Natal,Electronics,Phone Charger,New,Mobile Payment,3,984.9,2954.7
+37,2024-05-14,Eastern Cape,Groceries,Milk,New,Mobile Payment,5,284.66,1423.3
+38,2024-01-22,Limpopo,Groceries,Cooking Oil,Returning,Cash,4,773.04,3092.16
+39,2024-10-03,Gauteng,Clothing,Jeans,Returning,EFT,3,662.9,1988.7
+40,2024-05-26,KwaZulu-Natal,Groceries,Bread,New,Mobile Payment,4,1089.23,4356.92
+41,2024-06-06,Free State,Groceries,Cooking Oil,Returning,EFT,1,1491.93,1491.93
+42,2024-10-28,Free State,Home,Kettle,New,EFT,5,1393.91,6969.55
+43,2024-06-09,Eastern Cape,Home,Kettle,Returning,Card,4,455.78,1823.12
+44,2024-06-22,North West,Groceries,Milk,Returning,Mobile Payment,2,1396.42,2792.84
+45,2024-09-29,North West,Electronics,Smart Watch,New,Cash,3,457.03,1371.09
+46,2024-01-26,Eastern Cape,Clothing,Jeans,Returning,Cash,5,458.84,2294.2
+47,2024-01-20,Gauteng,Beauty,Lotion,Returning,Mobile Payment,1,949.28,949.28
+48,2024-10-14,Mpumalanga,Home,Microwave,New,Card,4,876.72,3506.88
+49,2024-05-04,Limpopo,Clothing,T-Shirt,Returning,Card,2,823.11,1646.22
+50,2024-02-23,Free State,Groceries,Cooking Oil,New,Mobile Payment,2,1237.45,2474.9
+51,2024-12-15,Eastern Cape,Beauty,Shampoo,New,Mobile Payment,4,1266.19,5064.76
+52,2024-06-06,Eastern Cape,Home,Kettle,New,Mobile Payment,2,784.12,1568.24
+53,2024-04-26,Mpumalanga,Clothing,Jeans,New,Cash,2,57.52,115.04
+54,2024-01-01,Western Cape,Home,Kettle,Returning,Card,1,276.48,276.48
+55,2024-09-28,Mpumalanga,Groceries,Cooking Oil,Returning,EFT,5,434.3,2171.5
+56,2024-03-16,Eastern Cape,Beauty,Lotion,New,Card,5,641.01,3205.05
+57,2024-04-03,KwaZulu-Natal,Groceries,Bread,New,Mobile Payment,4,88.08,352.32
+58,2024-10-15,Free State,Electronics,Phone Charger,New,Card,5,720.74,3603.7
+59,2024-06-28,Eastern Cape,Electronics,Phone Charger,Returning,Mobile Payment,5,1332.29,6661.45
+60,2024-01-16,North West,Groceries,Cooking Oil,Returning,EFT,5,1032.27,5161.35
+61,2024-12-05,North West,Electronics,Headphones,Returning,Card,4,886.95,3547.8
+62,2024-04-10,Eastern Cape,Clothing,T-Shirt,New,Cash,1,1220.58,1220.58
+63,2024-01-12,Western Cape,Electronics,Smart Watch,New,EFT,4,425.46,1701.84
+64,2024-04-02,Western Cape,Electronics,Smart Watch,New,Cash,1,990.47,990.47
+65,2024-03-15,North West,Home,Iron,Returning,Cash,5,535.54,2677.7
+66,2024-12-22,Northern Cape,Beauty,Shampoo,Returning,Mobile Payment,1,831.0,831.0
+67,2024-04-05,North West,Clothing,T-Shirt,New,Card,3,630.67,1892.01
+68,2024-12-20,Northern Cape,Beauty,Shampoo,Returning,Cash,5,1115.06,5575.3
+69,2024-12-07,Eastern Cape,Groceries,Milk,New,Mobile Payment,4,1243.16,4972.64
+70,2024-09-21,Mpumalanga,Home,Kettle,Returning,Card,1,1273.77,1273.77
+71,2024-03-09,Eastern Cape,Home,Microwave,Returning,Cash,2,955.12,1910.24
+72,2024-05-30,Northern Cape,Home,Microwave,New,Cash,5,1133.51,5667.55
+73,2024-08-10,Free State,Beauty,Lotion,New,EFT,2,105.19,210.38
+74,2024-03-16,Northern Cape,Beauty,Perfume,Returning,Card,3,193.26,579.78
+75,2024-06-22,North West,Home,Kettle,Returning,Cash,5,1260.95,6304.75
+76,2024-01-29,Free State,Electronics,Smart Watch,Returning,EFT,2,236.98,473.96
+77,2024-11-22,Northern Cape,Beauty,Shampoo,New,Mobile Payment,4,370.29,1481.16
+78,2024-12-29,Limpopo,Home,Iron,New,EFT,4,143.58,574.32
+79,2024-06-21,Western Cape,Electronics,Phone Charger,Returning,Card,3,184.57,553.71
+80,2024-12-13,Northern Cape,Electronics,Headphones,New,Mobile Payment,1,1121.43,1121.43
+81,2024-05-13,Free State,Groceries,Bread,Returning,Card,1,350.92,350.92
+82,2024-08-14,Eastern Cape,Beauty,Perfume,Returning,Cash,4,129.22,516.88
+83,2024-05-22,Gauteng,Electronics,Smart Watch,New,Card,1,340.88,340.88
+84,2024-11-25,North West,Clothing,Jacket,Returning,Mobile Payment,1,1374.58,1374.58
+85,2024-03-30,North West,Home,Kettle,Returning,Mobile Payment,2,298.42,596.84
+86,2024-05-24,Northern Cape,Electronics,Headphones,New,Cash,1,404.73,404.73
+87,2024-02-15,Eastern Cape,Home,Kettle,New,Card,4,421.02,1684.08
+88,2024-01-10,North West,Electronics,Smart Watch,Returning,Card,5,927.85,4639.25
+89,2024-10-15,Limpopo,Clothing,T-Shirt,New,Card,5,59.02,295.1
+90,2024-08-04,Limpopo,Groceries,Rice,New,EFT,5,1129.38,5646.9
+91,2024-04-08,Gauteng,Groceries,Bread,New,Mobile Payment,1,713.67,713.67
+92,2024-12-23,Eastern Cape,Home,Kettle,New,EFT,5,1499.58,7497.9
+93,2024-03-23,Gauteng,Beauty,Shampoo,New,Card,5,1140.48,5702.4
+94,2024-07-23,KwaZulu-Natal,Groceries,Milk,Returning,Cash,1,1432.0,1432.0
+95,2024-03-12,Mpumalanga,Groceries,Cooking Oil,Returning,Card,2,550.08,1100.16
+96,2024-09-24,Gauteng,Electronics,Phone Charger,Returning,Mobile Payment,3,789.84,2369.52
+97,2024-04-21,Mpumalanga,Beauty,Lotion,New,Cash,3,617.15,1851.45
+98,2024-04-12,Limpopo,Beauty,Lotion,Returning,Mobile Payment,2,1211.47,2422.94
+99,2024-10-12,Eastern Cape,Electronics,Phone Charger,New,Card,2,893.08,1786.16
+100,2024-01-30,Mpumalanga,Home,Kettle,Returning,EFT,1,1179.81,1179.81
+101,2024-07-02,Gauteng,Groceries,Bread,Returning,Cash,5,237.67,1188.35
+102,2024-07-23,Eastern Cape,Home,Kettle,New,Cash,2,938.79,1877.58
+103,2024-07-02,Northern Cape,Clothing,Jeans,New,Mobile Payment,4,289.18,1156.72
+104,2024-03-01,Eastern Cape,Clothing,Jacket,New,Cash,5,1460.2,7301.0
+105,2024-01-22,Free State,Beauty,Lotion,Returning,Cash,4,534.48,2137.92
+106,2024-02-03,Gauteng,Beauty,Shampoo,Returning,Card,4,325.37,1301.48
+107,2024-02-16,Northern Cape,Beauty,Perfume,Returning,EFT,1,156.59,156.59
+108,2024-10-18,Gauteng,Clothing,Jacket,Returning,Cash,5,23.84,119.2
+109,2024-05-06,North West,Clothing,T-Shirt,Returning,Card,4,329.84,1319.36
+110,2024-01-14,North West,Electronics,Smart Watch,New,EFT,2,1126.26,2252.52
+111,2024-09-30,Limpopo,Clothing,Jacket,New,EFT,3,807.53,2422.59
+112,2024-02-08,Northern Cape,Groceries,Rice,New,EFT,5,289.78,1448.9
+113,2024-01-13,KwaZulu-Natal,Electronics,Phone Charger,New,Mobile Payment,4,365.16,1460.64
+114,2024-04-20,KwaZulu-Natal,Electronics,Smart Watch,New,Card,1,757.69,757.69
+115,2024-02-11,Northern Cape,Electronics,Smart Watch,New,Card,1,855.4,855.4
+116,2024-11-10,Limpopo,Home,Iron,New,Cash,2,381.64,763.28
+117,2024-04-21,KwaZulu-Natal,Groceries,Bread,Returning,EFT,5,246.23,1231.15
+118,2024-02-09,Free State,Groceries,Rice,Returning,Mobile Payment,3,796.28,2388.84
+119,2024-04-27,Gauteng,Electronics,Smart Watch,Returning,Mobile Payment,4,27.84,111.36
+120,2024-07-21,North West,Clothing,Jeans,Returning,EFT,1,1083.32,1083.32
+121,2024-10-01,KwaZulu-Natal,Beauty,Shampoo,New,Mobile Payment,2,499.05,998.1
+122,2024-11-15,Limpopo,Groceries,Cooking Oil,New,Card,1,923.72,923.72
+123,2024-09-15,Gauteng,Clothing,Jacket,Returning,Card,4,494.55,1978.2
+124,2024-01-13,North West,Electronics,Headphones,Returning,Mobile Payment,2,1485.14,2970.28
+125,2024-09-21,North West,Groceries,Rice,Returning,EFT,5,24.01,120.05
+126,2024-08-23,Western Cape,Clothing,Jeans,Returning,Cash,1,1279.08,1279.08
+127,2024-02-04,Gauteng,Clothing,T-Shirt,Returning,Mobile Payment,2,288.22,576.44
+128,2024-09-26,Eastern Cape,Home,Kettle,New,Cash,3,1197.0,3591.0
+129,2024-03-02,KwaZulu-Natal,Beauty,Perfume,New,Cash,3,957.96,2873.88
+130,2024-10-21,North West,Electronics,Headphones,Returning,Mobile Payment,2,1228.57,2457.14
+131,2024-05-22,Gauteng,Clothing,T-Shirt,New,Cash,1,1126.46,1126.46
+132,2024-04-13,North West,Groceries,Rice,New,EFT,2,824.46,1648.92
+133,2024-02-11,KwaZulu-Natal,Clothing,Jeans,New,EFT,3,949.01,2847.03
+134,2024-06-05,Limpopo,Beauty,Shampoo,New,Cash,4,1117.36,4469.44
+135,2024-09-10,KwaZulu-Natal,Beauty,Shampoo,Returning,Card,3,1121.04,3363.12
+136,2024-04-27,Limpopo,Electronics,Headphones,New,EFT,3,1136.86,3410.58
+137,2024-06-05,North West,Home,Kettle,New,Cash,4,607.99,2431.96
+138,2024-04-24,Eastern Cape,Home,Kettle,Returning,Mobile Payment,2,38.06,76.12
+139,2024-01-11,North West,Electronics,Smart Watch,Returning,Card,3,531.63,1594.89
+140,2024-05-20,North West,Electronics,Phone Charger,Returning,Card,3,246.96,740.88
+141,2024-12-21,KwaZulu-Natal,Groceries,Bread,New,Mobile Payment,4,897.59,3590.36
+142,2024-10-13,Northern Cape,Beauty,Perfume,Returning,EFT,2,1161.45,2322.9
+143,2024-09-13,Free State,Beauty,Lotion,New,Card,1,1389.84,1389.84
+144,2024-02-24,Eastern Cape,Home,Iron,Returning,EFT,1,511.58,511.58
+145,2024-07-20,KwaZulu-Natal,Beauty,Perfume,New,Cash,1,1121.49,1121.49
+146,2024-01-25,Limpopo,Electronics,Headphones,Returning,EFT,3,609.29,1827.87
+147,2024-05-07,Eastern Cape,Electronics,Smart Watch,Returning,Mobile Payment,2,1379.31,2758.62
+148,2024-12-09,Gauteng,Groceries,Rice,New,Cash,4,640.01,2560.04
+149,2024-02-18,Mpumalanga,Clothing,Jeans,New,Mobile Payment,2,39.38,78.76
+150,2024-03-03,North West,Groceries,Bread,New,EFT,4,633.64,2534.56
+151,2024-07-29,Gauteng,Groceries,Cooking Oil,New,Cash,5,608.03,3040.15
+152,2024-06-23,Western Cape,Clothing,Jeans,Returning,Card,1,1167.78,1167.78
+153,2024-11-14,KwaZulu-Natal,Home,Kettle,New,Mobile Payment,2,755.58,1511.16
+154,2024-06-10,Gauteng,Beauty,Perfume,New,EFT,3,572.5,1717.5
+155,2024-11-08,Mpumalanga,Home,Iron,New,Mobile Payment,5,623.82,3119.1
+156,2024-09-05,Free State,Clothing,Jacket,New,EFT,5,900.67,4503.35
+157,2024-03-28,North West,Groceries,Cooking Oil,Returning,EFT,2,1211.87,2423.74
+158,2024-11-06,Western Cape,Home,Kettle,New,Card,5,621.46,3107.3
+159,2024-02-05,Western Cape,Groceries,Rice,Returning,Cash,5,59.27,296.35
+160,2024-07-13,Mpumalanga,Beauty,Perfume,New,Mobile Payment,2,1241.16,2482.32
+161,2024-08-09,Northern Cape,Home,Kettle,Returning,Cash,5,625.93,3129.65
+162,2024-12-29,North West,Home,Microwave,New,Card,4,1462.33,5849.32
+163,2024-07-27,Northern Cape,Clothing,Jeans,Returning,Card,1,737.47,737.47
+164,2024-08-22,KwaZulu-Natal,Beauty,Shampoo,Returning,Card,1,226.25,226.25
+165,2024-03-15,Limpopo,Beauty,Shampoo,Returning,Mobile Payment,2,423.01,846.02
+166,2024-02-03,Gauteng,Beauty,Lotion,New,Cash,4,757.17,3028.68
+167,2024-01-27,Northern Cape,Electronics,Smart Watch,New,Card,5,36.27,181.35
+168,2024-11-04,Mpumalanga,Clothing,Jeans,Returning,Cash,4,956.99,3827.96
+169,2024-05-01,Western Cape,Groceries,Milk,Returning,Card,5,587.05,2935.25
+170,2024-10-08,Free State,Clothing,T-Shirt,New,Mobile Payment,3,153.7,461.1
+171,2024-08-14,Limpopo,Clothing,T-Shirt,Returning,EFT,3,459.74,1379.22
+172,2024-05-27,Eastern Cape,Beauty,Shampoo,New,Mobile Payment,2,66.15,132.3
+173,2024-07-19,Western Cape,Clothing,T-Shirt,New,Cash,3,903.33,2709.99
+174,2024-03-01,North West,Groceries,Cooking Oil,Returning,Cash,1,630.93,630.93
+175,2024-06-20,Eastern Cape,Clothing,Jacket,Returning,Card,2,1203.14,2406.28
+176,2024-10-31,Gauteng,Electronics,Smart Watch,Returning,Cash,5,155.54,777.7
+177,2024-08-03,Eastern Cape,Groceries,Rice,Returning,EFT,4,822.01,3288.04
+178,2024-07-16,North West,Beauty,Shampoo,New,Card,5,1044.57,5222.85
+179,2024-12-30,Mpumalanga,Groceries,Cooking Oil,New,EFT,3,1481.75,4445.25
+180,2024-11-30,Free State,Electronics,Headphones,New,Cash,2,483.03,966.06
+181,2024-03-22,KwaZulu-Natal,Clothing,Jeans,New,EFT,3,1417.51,4252.53
+182,2024-01-14,North West,Electronics,Smart Watch,New,Mobile Payment,2,973.93,1947.86
+183,2024-06-19,North West,Home,Kettle,Returning,EFT,2,1329.8,2659.6
+184,2024-07-28,Gauteng,Home,Microwave,Returning,Cash,1,816.83,816.83
+185,2024-06-18,Western Cape,Electronics,Phone Charger,Returning,EFT,2,56.11,112.22
+186,2024-08-14,Mpumalanga,Beauty,Shampoo,Returning,Mobile Payment,2,1409.82,2819.64
+187,2024-09-01,Northern Cape,Beauty,Lotion,Returning,Mobile Payment,1,614.86,614.86
+188,2024-12-24,KwaZulu-Natal,Home,Microwave,New,Cash,1,1157.04,1157.04
+189,2024-06-06,Western Cape,Groceries,Rice,Returning,Card,5,544.84,2724.2
+190,2024-03-13,Gauteng,Beauty,Shampoo,New,Mobile Payment,1,1367.3,1367.3
+191,2024-07-16,Mpumalanga,Home,Microwave,Returning,EFT,2,1201.02,2402.04
+192,2024-07-17,KwaZulu-Natal,Clothing,Jeans,Returning,EFT,5,1483.99,7419.95
+193,2024-11-25,Western Cape,Home,Kettle,New,Card,5,1249.35,6246.75
+194,2024-09-18,Free State,Groceries,Bread,New,Card,2,1173.79,2347.58
+195,2024-08-28,Eastern Cape,Groceries,Bread,Returning,Card,3,903.97,2711.91
+196,2024-09-25,North West,Groceries,Cooking Oil,New,EFT,3,1227.43,3682.29
+197,2024-04-07,Northern Cape,Groceries,Bread,Returning,EFT,4,878.53,3514.12
+198,2024-08-13,Northern Cape,Clothing,T-Shirt,New,Mobile Payment,1,85.68,85.68
+199,2024-05-03,Limpopo,Groceries,Bread,Returning,EFT,3,148.74,446.22
+200,2024-11-11,Free State,Beauty,Lotion,New,Cash,2,139.95,279.9
+201,2024-11-18,North West,Electronics,Headphones,Returning,Card,5,1361.64,6808.2
+202,2024-08-03,Eastern Cape,Clothing,T-Shirt,Returning,Mobile Payment,5,1106.19,5530.95
+203,2024-06-17,Northern Cape,Home,Kettle,New,Card,3,1303.6,3910.8
+204,2024-01-07,Free State,Home,Microwave,New,Cash,3,1134.02,3402.06
+205,2024-06-08,Free State,Electronics,Headphones,Returning,EFT,3,1321.03,3963.09
+206,2024-10-21,Western Cape,Electronics,Phone Charger,Returning,Cash,5,771.05,3855.25
+207,2024-08-10,Western Cape,Clothing,T-Shirt,Returning,Mobile Payment,1,955.08,955.08
+208,2024-03-14,Northern Cape,Beauty,Perfume,Returning,Card,3,1146.32,3438.96
+209,2024-07-14,KwaZulu-Natal,Home,Microwave,Returning,Mobile Payment,5,171.71,858.55
+210,2024-07-11,Limpopo,Electronics,Smart Watch,Returning,Mobile Payment,1,1161.06,1161.06
+211,2024-06-23,KwaZulu-Natal,Clothing,Jeans,New,EFT,2,1485.42,2970.84
+212,2024-02-02,Limpopo,Home,Kettle,New,EFT,4,56.39,225.56
+213,2024-08-13,KwaZulu-Natal,Clothing,Jacket,New,EFT,2,21.52,43.04
+214,2024-10-14,Western Cape,Beauty,Shampoo,New,Card,5,1046.65,5233.25
+215,2024-12-02,North West,Home,Iron,Returning,Cash,3,424.42,1273.26
+216,2024-09-18,Eastern Cape,Beauty,Perfume,New,Cash,5,965.02,4825.1
+217,2024-01-15,Western Cape,Clothing,Jacket,New,EFT,1,494.7,494.7
+218,2024-07-26,North West,Groceries,Bread,Returning,Card,4,852.87,3411.48
+219,2024-03-19,Western Cape,Groceries,Bread,Returning,EFT,5,1169.36,5846.8
+220,2024-11-11,Eastern Cape,Clothing,T-Shirt,Returning,Card,4,68.14,272.56
+221,2024-12-05,KwaZulu-Natal,Groceries,Milk,New,Card,1,918.81,918.81
+222,2024-12-09,North West,Groceries,Cooking Oil,New,Mobile Payment,5,418.11,2090.55
+223,2024-11-15,Western Cape,Beauty,Shampoo,Returning,EFT,5,127.22,636.1
+224,2024-04-11,Northern Cape,Clothing,T-Shirt,Returning,EFT,1,1292.98,1292.98
+225,2024-02-15,Limpopo,Clothing,T-Shirt,Returning,Mobile Payment,1,172.13,172.13
+226,2024-08-29,Gauteng,Home,Kettle,Returning,Cash,2,1168.19,2336.38
+227,2024-03-17,KwaZulu-Natal,Groceries,Bread,Returning,Card,5,142.11,710.55
+228,2024-05-22,Western Cape,Electronics,Phone Charger,Returning,EFT,2,1040.41,2080.82
+229,2024-05-02,Limpopo,Home,Kettle,New,Card,3,203.85,611.55
+230,2024-09-20,North West,Groceries,Rice,Returning,Mobile Payment,1,1069.41,1069.41
+231,2024-03-24,KwaZulu-Natal,Home,Iron,Returning,Card,3,736.91,2210.73
+232,2024-07-06,Western Cape,Electronics,Smart Watch,Returning,Mobile Payment,3,80.32,240.96
+233,2024-05-01,Eastern Cape,Home,Kettle,New,Card,1,1310.24,1310.24
+234,2024-07-01,Eastern Cape,Home,Kettle,Returning,Card,5,1188.75,5943.75
+235,2024-12-26,Eastern Cape,Electronics,Smart Watch,Returning,Card,5,1494.57,7472.85
+236,2024-07-25,Gauteng,Clothing,Jacket,New,Mobile Payment,5,126.85,634.25
+237,2024-01-24,KwaZulu-Natal,Groceries,Milk,New,Mobile Payment,5,1096.21,5481.05
+238,2024-02-19,Gauteng,Home,Iron,New,Mobile Payment,4,767.17,3068.68
+239,2024-08-15,Western Cape,Groceries,Cooking Oil,New,Card,2,1093.38,2186.76
+240,2024-07-04,Limpopo,Home,Iron,New,Mobile Payment,2,1488.36,2976.72
+241,2024-08-12,Eastern Cape,Clothing,T-Shirt,Returning,Mobile Payment,2,954.71,1909.42
+242,2024-11-29,Western Cape,Home,Iron,New,Cash,2,371.56,743.12
+243,2024-11-11,North West,Beauty,Lotion,New,Cash,5,667.0,3335.0
+244,2024-01-28,Western Cape,Home,Iron,New,Cash,1,598.8,598.8
+245,2024-06-12,Mpumalanga,Beauty,Perfume,New,EFT,1,1164.74,1164.74
+246,2024-03-20,Northern Cape,Clothing,Jeans,New,Cash,3,674.2,2022.6
+247,2024-03-04,Limpopo,Home,Microwave,Returning,Mobile Payment,4,1066.03,4264.12
+248,2024-07-22,Free State,Groceries,Rice,New,Cash,5,547.96,2739.8
+249,2024-11-29,Western Cape,Home,Microwave,New,EFT,4,819.06,3276.24
+250,2024-02-04,Limpopo,Beauty,Lotion,New,Cash,5,967.2,4836.0
+251,2024-07-24,KwaZulu-Natal,Clothing,T-Shirt,New,Card,1,770.71,770.71
+252,2024-10-11,Northern Cape,Clothing,Jacket,New,EFT,2,498.23,996.46
+253,2024-05-30,KwaZulu-Natal,Clothing,Jeans,Returning,Card,4,807.72,3230.88
+254,2024-09-20,Limpopo,Electronics,Smart Watch,New,EFT,2,298.76,597.52
+255,2024-04-23,Western Cape,Electronics,Headphones,New,Card,2,573.96,1147.92
+256,2024-10-28,KwaZulu-Natal,Groceries,Cooking Oil,New,Cash,3,1397.8,4193.4
+257,2024-12-26,Western Cape,Clothing,Jacket,Returning,Mobile Payment,5,1007.12,5035.6
+258,2024-09-25,Northern Cape,Groceries,Bread,New,Cash,1,1490.14,1490.14
+259,2024-04-11,KwaZulu-Natal,Groceries,Rice,Returning,EFT,4,982.76,3931.04
+260,2024-12-04,Gauteng,Electronics,Phone Charger,Returning,Card,5,1200.76,6003.8
+261,2024-07-17,Free State,Groceries,Bread,New,Mobile Payment,1,562.36,562.36
+262,2024-10-17,Limpopo,Beauty,Shampoo,Returning,EFT,1,371.57,371.57
+263,2024-09-21,Eastern Cape,Clothing,Jeans,New,Card,2,1143.83,2287.66
+264,2024-06-02,Northern Cape,Electronics,Phone Charger,Returning,Cash,4,57.95,231.8
+265,2024-02-12,Mpumalanga,Electronics,Headphones,Returning,Card,4,725.51,2902.04
+266,2024-04-16,Mpumalanga,Electronics,Smart Watch,Returning,EFT,3,46.98,140.94
+267,2024-02-20,KwaZulu-Natal,Beauty,Perfume,New,Cash,1,988.95,988.95
+268,2024-02-21,Eastern Cape,Clothing,Jeans,Returning,Mobile Payment,5,933.68,4668.4
+269,2024-03-17,KwaZulu-Natal,Electronics,Phone Charger,Returning,Cash,2,611.86,1223.72
+270,2024-06-07,Mpumalanga,Clothing,Jacket,New,Mobile Payment,4,288.53,1154.12
+271,2024-02-05,KwaZulu-Natal,Groceries,Milk,Returning,Card,5,399.71,1998.55
+272,2024-05-20,Mpumalanga,Groceries,Cooking Oil,Returning,Card,5,957.06,4785.3
+273,2024-01-09,North West,Beauty,Lotion,Returning,Cash,4,357.56,1430.24
+274,2024-10-19,KwaZulu-Natal,Beauty,Lotion,Returning,Mobile Payment,1,370.57,370.57
+275,2024-06-12,Gauteng,Clothing,Jacket,New,Card,2,1218.1,2436.2
+276,2024-08-13,Gauteng,Beauty,Perfume,New,Cash,1,1110.57,1110.57
+277,2024-06-08,Northern Cape,Groceries,Milk,Returning,Cash,5,970.12,4850.6
+278,2024-10-17,Mpumalanga,Beauty,Shampoo,New,Card,1,1481.92,1481.92
+279,2024-08-28,Mpumalanga,Clothing,Jeans,Returning,Mobile Payment,5,1082.04,5410.2
+280,2024-04-18,KwaZulu-Natal,Clothing,Jeans,Returning,Cash,2,1360.18,2720.36
+281,2024-12-18,Limpopo,Groceries,Cooking Oil,New,EFT,3,613.76,1841.28
+282,2024-01-05,Free State,Home,Kettle,Returning,Card,1,1251.16,1251.16
+283,2024-09-15,Limpopo,Electronics,Smart Watch,Returning,Card,4,500.01,2000.04
+284,2024-10-12,KwaZulu-Natal,Home,Iron,Returning,Card,1,1493.31,1493.31
+285,2024-10-13,Northern Cape,Home,Iron,New,Mobile Payment,4,1443.27,5773.08
+286,2024-01-12,Gauteng,Electronics,Phone Charger,Returning,Mobile Payment,1,1236.27,1236.27
+287,2024-04-24,North West,Home,Microwave,Returning,Cash,5,197.35,986.75
+288,2024-03-24,Limpopo,Home,Kettle,Returning,Card,1,1013.91,1013.91
+289,2024-08-13,KwaZulu-Natal,Groceries,Bread,New,EFT,4,1177.4,4709.6
+290,2024-09-14,Northern Cape,Electronics,Headphones,New,Cash,2,583.75,1167.5
+291,2024-06-02,KwaZulu-Natal,Clothing,Jacket,Returning,EFT,4,433.96,1735.84
+292,2024-11-11,Free State,Clothing,Jeans,Returning,Card,3,870.39,2611.17
+293,2024-03-22,Eastern Cape,Home,Microwave,Returning,Mobile Payment,1,192.22,192.22
+294,2024-01-14,Northern Cape,Electronics,Phone Charger,New,Cash,3,1189.25,3567.75
+295,2024-07-24,KwaZulu-Natal,Clothing,Jeans,Returning,Mobile Payment,3,1048.53,3145.59
+296,2024-11-05,Gauteng,Electronics,Headphones,Returning,EFT,2,216.14,432.28
+297,2024-01-25,Free State,Groceries,Milk,Returning,Mobile Payment,5,489.95,2449.75
+298,2024-03-08,KwaZulu-Natal,Beauty,Lotion,Returning,Cash,4,220.05,880.2
+299,2024-05-09,Mpumalanga,Home,Microwave,New,EFT,5,46.18,230.9
+300,2024-12-10,Western Cape,Clothing,T-Shirt,Returning,EFT,3,303.84,911.52
+301,2024-04-08,Free State,Electronics,Headphones,New,Mobile Payment,1,656.9,656.9
+302,2024-09-16,Mpumalanga,Clothing,Jacket,Returning,Cash,4,934.72,3738.88
+303,2024-11-03,KwaZulu-Natal,Beauty,Perfume,Returning,Card,4,473.26,1893.04
+304,2024-03-02,Eastern Cape,Electronics,Smart Watch,New,EFT,5,1332.17,6660.85
+305,2024-05-12,Mpumalanga,Home,Iron,Returning,Card,5,592.88,2964.4
+306,2024-11-09,North West,Clothing,T-Shirt,New,Cash,5,1145.23,5726.15
+307,2024-07-31,Free State,Groceries,Bread,Returning,Cash,5,1254.77,6273.85
+308,2024-07-09,Free State,Beauty,Shampoo,Returning,Mobile Payment,3,413.46,1240.38
+309,2024-04-21,Western Cape,Beauty,Lotion,Returning,EFT,4,1299.7,5198.8
+310,2024-02-11,Free State,Groceries,Bread,Returning,Cash,4,1292.16,5168.64
+311,2024-05-08,Western Cape,Groceries,Bread,Returning,Mobile Payment,1,994.86,994.86
+312,2024-08-19,Free State,Beauty,Shampoo,Returning,EFT,2,1396.87,2793.74
+313,2024-12-08,North West,Electronics,Smart Watch,New,EFT,1,928.62,928.62
+314,2024-07-18,Northern Cape,Beauty,Shampoo,New,EFT,5,90.79,453.95
+315,2024-05-31,Gauteng,Groceries,Bread,New,Mobile Payment,3,125.46,376.38
+316,2024-07-29,Mpumalanga,Beauty,Lotion,New,Mobile Payment,4,537.56,2150.24
+317,2024-12-15,Limpopo,Clothing,Jacket,Returning,Mobile Payment,2,165.63,331.26
+318,2024-05-15,North West,Electronics,Phone Charger,New,Cash,4,1350.37,5401.48
+319,2024-10-18,KwaZulu-Natal,Electronics,Smart Watch,Returning,Cash,2,35.43,70.86
+320,2024-09-11,Western Cape,Groceries,Bread,Returning,Cash,2,727.82,1455.64
+321,2024-06-29,Western Cape,Home,Microwave,New,Card,2,910.78,1821.56
+322,2024-06-01,North West,Groceries,Cooking Oil,New,Card,2,352.43,704.86
+323,2024-07-31,Eastern Cape,Home,Iron,Returning,Cash,1,262.25,262.25
+324,2024-04-28,Mpumalanga,Beauty,Perfume,New,Mobile Payment,2,1227.6,2455.2
+325,2024-05-28,North West,Groceries,Rice,Returning,Mobile Payment,2,961.38,1922.76
+326,2024-12-13,Western Cape,Home,Microwave,Returning,Cash,3,418.61,1255.83
+327,2024-04-04,Eastern Cape,Beauty,Perfume,New,Mobile Payment,4,1230.32,4921.28
+328,2024-12-18,North West,Home,Kettle,New,EFT,3,1142.11,3426.33
+329,2024-04-17,Northern Cape,Clothing,Jacket,Returning,Cash,5,158.76,793.8
+330,2024-01-03,Gauteng,Electronics,Phone Charger,Returning,Mobile Payment,1,1117.73,1117.73
+331,2024-01-10,Free State,Clothing,Jeans,Returning,Card,2,321.97,643.94
+332,2024-01-13,Northern Cape,Clothing,Jacket,Returning,Mobile Payment,2,545.97,1091.94
+333,2024-07-27,Northern Cape,Electronics,Phone Charger,Returning,Cash,2,72.26,144.52
+334,2024-08-10,Mpumalanga,Groceries,Cooking Oil,Returning,Mobile Payment,3,1139.27,3417.81
+335,2024-05-11,KwaZulu-Natal,Clothing,T-Shirt,Returning,Mobile Payment,2,565.1,1130.2
+336,2024-11-05,North West,Clothing,Jeans,New,Cash,5,1001.3,5006.5
+337,2024-01-20,Gauteng,Electronics,Phone Charger,New,EFT,4,288.35,1153.4
+338,2024-12-01,Mpumalanga,Home,Kettle,Returning,Mobile Payment,3,115.98,347.94
+339,2024-07-06,Eastern Cape,Electronics,Phone Charger,New,EFT,2,911.18,1822.36
+340,2024-11-09,Limpopo,Clothing,Jeans,New,EFT,5,1123.97,5619.85
+341,2024-07-01,Gauteng,Home,Microwave,New,Cash,5,238.23,1191.15
+342,2024-09-07,Northern Cape,Electronics,Smart Watch,Returning,Card,4,112.56,450.24
+343,2024-05-27,Limpopo,Beauty,Shampoo,New,Card,1,963.58,963.58
+344,2024-11-20,Northern Cape,Home,Microwave,Returning,Cash,1,1426.46,1426.46
+345,2024-04-22,Limpopo,Electronics,Phone Charger,New,Card,3,58.77,176.31
+346,2024-02-04,Eastern Cape,Groceries,Rice,New,Cash,5,1178.22,5891.1
+347,2024-09-17,KwaZulu-Natal,Beauty,Shampoo,Returning,Card,5,698.12,3490.6
+348,2024-10-06,Northern Cape,Home,Iron,Returning,Card,2,1365.9,2731.8
+349,2024-02-26,KwaZulu-Natal,Groceries,Milk,Returning,Cash,4,214.4,857.6
+350,2024-12-07,Mpumalanga,Home,Kettle,New,EFT,4,86.0,344.0
+351,2024-06-30,Northern Cape,Home,Iron,New,Card,2,422.49,844.98
+352,2024-04-16,KwaZulu-Natal,Home,Kettle,Returning,Card,5,1282.57,6412.85
+353,2024-01-07,Limpopo,Clothing,T-Shirt,New,EFT,5,807.98,4039.9
+354,2024-07-17,Free State,Electronics,Smart Watch,Returning,Card,4,209.42,837.68
+355,2024-01-21,Western Cape,Home,Iron,New,EFT,1,751.83,751.83
+356,2024-12-10,Free State,Electronics,Headphones,Returning,Mobile Payment,1,706.62,706.62
+357,2024-04-26,KwaZulu-Natal,Groceries,Bread,New,Card,1,52.61,52.61
+358,2024-03-01,Western Cape,Groceries,Rice,Returning,Card,1,794.62,794.62
+359,2024-07-16,Western Cape,Clothing,T-Shirt,New,Card,1,824.44,824.44
+360,2024-02-26,Western Cape,Beauty,Shampoo,Returning,Card,2,1003.0,2006.0
+361,2024-10-20,Eastern Cape,Clothing,T-Shirt,Returning,EFT,4,112.16,448.64
+362,2024-03-08,KwaZulu-Natal,Groceries,Cooking Oil,Returning,EFT,5,263.77,1318.85
+363,2024-06-16,Gauteng,Beauty,Perfume,New,Card,4,1308.46,5233.84
+364,2024-04-06,KwaZulu-Natal,Groceries,Cooking Oil,New,Card,3,1365.65,4096.95
+365,2024-07-15,Eastern Cape,Home,Microwave,New,Mobile Payment,1,608.12,608.12
+366,2024-06-12,Free State,Home,Iron,New,Mobile Payment,4,1193.42,4773.68
+367,2024-09-24,Western Cape,Groceries,Rice,New,Mobile Payment,2,253.77,507.54
+368,2024-12-28,North West,Clothing,T-Shirt,Returning,Cash,3,1347.84,4043.52
+369,2024-06-24,Free State,Home,Kettle,Returning,Card,5,1104.3,5521.5
+370,2024-01-16,Gauteng,Clothing,T-Shirt,New,Cash,4,1114.8,4459.2
+371,2024-04-11,Mpumalanga,Beauty,Shampoo,Returning,EFT,5,498.06,2490.3
+372,2024-10-07,KwaZulu-Natal,Beauty,Shampoo,Returning,Card,3,800.55,2401.65
+373,2024-09-21,KwaZulu-Natal,Beauty,Perfume,Returning,Card,5,518.52,2592.6
+374,2024-12-29,Northern Cape,Clothing,T-Shirt,New,Mobile Payment,3,1353.92,4061.76
+375,2024-10-12,Free State,Electronics,Phone Charger,Returning,Mobile Payment,3,1322.14,3966.42
+376,2024-06-28,Western Cape,Electronics,Phone Charger,New,EFT,1,375.01,375.01
+377,2024-06-24,Limpopo,Electronics,Phone Charger,New,Cash,3,983.7,2951.1
+378,2024-07-30,Western Cape,Home,Microwave,Returning,EFT,3,958.53,2875.59
+379,2024-01-01,North West,Home,Microwave,New,EFT,1,989.82,989.82
+380,2024-05-22,Free State,Clothing,Jeans,New,Cash,1,338.98,338.98
+381,2024-02-08,Northern Cape,Beauty,Shampoo,New,Mobile Payment,4,1408.69,5634.76
+382,2024-05-13,Mpumalanga,Beauty,Perfume,New,EFT,2,983.14,1966.28
+383,2024-07-08,Eastern Cape,Electronics,Phone Charger,New,Card,4,584.79,2339.16
+384,2024-09-26,Limpopo,Clothing,T-Shirt,New,Card,1,643.74,643.74
+385,2024-10-01,Northern Cape,Groceries,Rice,Returning,Mobile Payment,3,1242.54,3727.62
+386,2024-04-30,Eastern Cape,Beauty,Perfume,New,Mobile Payment,1,471.03,471.03
+387,2024-10-12,Northern Cape,Beauty,Shampoo,Returning,Cash,4,162.87,651.48
+388,2024-11-29,Northern Cape,Home,Kettle,Returning,EFT,3,129.88,389.64
+389,2024-03-26,Northern Cape,Home,Iron,Returning,EFT,1,509.0,509.0
+390,2024-09-24,Eastern Cape,Beauty,Lotion,New,Mobile Payment,1,442.23,442.23
+391,2024-10-02,Free State,Electronics,Headphones,New,Mobile Payment,5,114.19,570.95
+392,2024-11-19,Eastern Cape,Groceries,Bread,New,Card,5,797.35,3986.75
+393,2024-11-27,Limpopo,Groceries,Cooking Oil,Returning,Card,5,1047.79,5238.95
+394,2024-08-19,Free State,Groceries,Rice,New,Card,2,263.94,527.88
+395,2024-11-06,Mpumalanga,Home,Kettle,Returning,Mobile Payment,5,966.62,4833.1
+396,2024-12-07,Western Cape,Home,Iron,Returning,Card,4,741.75,2967.0
+397,2024-03-27,Limpopo,Clothing,Jacket,Returning,Card,1,769.27,769.27
+398,2024-09-18,North West,Groceries,Milk,New,Mobile Payment,1,78.85,78.85
+399,2024-08-28,Eastern Cape,Electronics,Headphones,Returning,Card,1,510.39,510.39
+400,2024-05-20,Limpopo,Clothing,T-Shirt,New,Card,4,326.35,1305.4
+401,2024-12-18,Mpumalanga,Groceries,Milk,New,Cash,3,1269.01,3807.03
+402,2024-08-20,Northern Cape,Groceries,Cooking Oil,Returning,Cash,2,454.36,908.72
+403,2024-11-02,Mpumalanga,Groceries,Bread,New,Cash,1,188.48,188.48
+404,2024-05-06,Gauteng,Beauty,Perfume,Returning,Mobile Payment,3,686.88,2060.64
+405,2024-08-27,Gauteng,Clothing,T-Shirt,New,Card,5,402.1,2010.5
+406,2024-12-12,Mpumalanga,Home,Iron,Returning,Cash,5,22.32,111.6
+407,2024-11-19,Gauteng,Groceries,Rice,New,Mobile Payment,4,1036.15,4144.6
+408,2024-03-24,Gauteng,Electronics,Headphones,New,Mobile Payment,3,902.56,2707.68
+409,2024-10-11,Northern Cape,Electronics,Smart Watch,Returning,Card,1,1413.75,1413.75
+410,2024-07-28,Eastern Cape,Clothing,Jacket,Returning,Cash,5,34.99,174.95
+411,2024-06-03,Free State,Groceries,Rice,Returning,Cash,4,274.34,1097.36
+412,2024-09-24,Eastern Cape,Clothing,Jeans,New,Cash,2,37.33,74.66
+413,2024-03-02,Gauteng,Beauty,Perfume,New,EFT,2,1367.0,2734.0
+414,2024-10-03,Limpopo,Groceries,Rice,New,Card,1,119.73,119.73
+415,2024-05-01,Western Cape,Home,Microwave,Returning,EFT,5,427.56,2137.8
+416,2024-12-25,Northern Cape,Clothing,Jacket,Returning,Mobile Payment,1,657.86,657.86
+417,2024-01-07,KwaZulu-Natal,Home,Kettle,New,Mobile Payment,2,266.95,533.9
+418,2024-07-20,Western Cape,Groceries,Bread,Returning,EFT,4,522.86,2091.44
+419,2024-10-31,Gauteng,Clothing,Jacket,Returning,Mobile Payment,3,626.25,1878.75
+420,2024-11-16,KwaZulu-Natal,Beauty,Lotion,New,Cash,4,878.73,3514.92
+421,2024-02-14,KwaZulu-Natal,Electronics,Headphones,Returning,EFT,3,807.23,2421.69
+422,2024-09-18,Free State,Clothing,Jacket,Returning,Card,2,605.24,1210.48
+423,2024-05-03,Free State,Beauty,Lotion,New,EFT,5,568.19,2840.95
+424,2024-10-11,KwaZulu-Natal,Home,Iron,New,Cash,4,827.16,3308.64
+425,2024-06-10,Limpopo,Home,Kettle,New,EFT,5,727.26,3636.3
+426,2024-04-18,Eastern Cape,Clothing,Jacket,Returning,Cash,2,1243.69,2487.38
+427,2024-05-18,Mpumalanga,Beauty,Lotion,Returning,EFT,4,367.86,1471.44
+428,2024-04-20,Western Cape,Groceries,Cooking Oil,New,Mobile Payment,5,677.18,3385.9
+429,2024-12-03,North West,Clothing,T-Shirt,Returning,Cash,1,1107.18,1107.18
+430,2024-01-08,Free State,Electronics,Smart Watch,New,Cash,5,1101.61,5508.05
+431,2024-03-31,Free State,Home,Iron,Returning,EFT,3,215.91,647.73
+432,2024-09-02,Mpumalanga,Beauty,Perfume,Returning,Cash,4,76.21,304.84
+433,2024-01-12,Limpopo,Groceries,Cooking Oil,New,EFT,4,710.84,2843.36
+434,2024-12-17,Limpopo,Clothing,Jeans,New,EFT,4,735.44,2941.76
+435,2024-08-03,Mpumalanga,Electronics,Phone Charger,New,EFT,3,320.77,962.31
+436,2024-06-27,Free State,Clothing,T-Shirt,Returning,EFT,3,874.37,2623.11
+437,2024-06-11,Northern Cape,Electronics,Smart Watch,Returning,Mobile Payment,4,1213.75,4855.0
+438,2024-12-17,North West,Beauty,Shampoo,New,EFT,1,1273.51,1273.51
+439,2024-07-07,Mpumalanga,Clothing,Jacket,Returning,Card,5,775.44,3877.2
+440,2024-10-24,Free State,Beauty,Lotion,Returning,Mobile Payment,3,1310.63,3931.89
+441,2024-02-26,Eastern Cape,Electronics,Headphones,New,Card,3,331.84,995.52
+442,2024-01-25,Free State,Electronics,Headphones,New,EFT,3,1112.05,3336.15
+443,2024-07-19,Gauteng,Beauty,Shampoo,Returning,EFT,5,1236.45,6182.25
+444,2024-09-16,Limpopo,Electronics,Smart Watch,New,EFT,1,1090.26,1090.26
+445,2024-10-16,Eastern Cape,Clothing,Jeans,New,Card,4,874.02,3496.08
+446,2024-05-23,Limpopo,Electronics,Headphones,Returning,Card,2,1195.88,2391.76
+447,2024-10-16,Mpumalanga,Electronics,Phone Charger,New,Mobile Payment,5,1006.94,5034.7
+448,2024-10-21,Gauteng,Clothing,Jeans,New,Cash,5,883.22,4416.1
+449,2024-10-01,Northern Cape,Beauty,Shampoo,New,Card,5,337.65,1688.25
+450,2024-02-23,KwaZulu-Natal,Groceries,Rice,Returning,Mobile Payment,2,887.08,1774.16
+451,2024-02-22,North West,Electronics,Phone Charger,New,Card,2,1076.65,2153.3
+452,2024-01-12,Mpumalanga,Home,Kettle,New,Card,3,1167.51,3502.53
+453,2024-12-26,Gauteng,Electronics,Phone Charger,New,Cash,2,1088.15,2176.3
+454,2024-04-05,Limpopo,Groceries,Milk,Returning,Cash,5,89.34,446.7
+455,2024-11-15,Northern Cape,Electronics,Headphones,New,EFT,5,1411.86,7059.3
+456,2024-04-09,Western Cape,Clothing,T-Shirt,New,EFT,3,1302.49,3907.47
+457,2024-02-25,Eastern Cape,Beauty,Perfume,New,Cash,1,578.42,578.42
+458,2024-11-11,Northern Cape,Electronics,Smart Watch,Returning,EFT,2,855.65,1711.3
+459,2024-01-13,Free State,Electronics,Smart Watch,New,Mobile Payment,5,1075.31,5376.55
+460,2024-10-07,Northern Cape,Home,Microwave,New,Mobile Payment,1,1020.64,1020.64
+461,2024-04-10,Limpopo,Clothing,Jacket,Returning,EFT,4,1499.21,5996.84
+462,2024-05-25,Eastern Cape,Home,Kettle,Returning,Cash,3,697.4,2092.2
+463,2024-08-16,KwaZulu-Natal,Home,Microwave,New,Card,1,295.31,295.31
+464,2024-04-09,Mpumalanga,Groceries,Bread,New,Cash,3,1101.13,3303.39
+465,2024-01-28,Limpopo,Electronics,Headphones,Returning,Mobile Payment,4,1113.12,4452.48
+466,2024-09-08,Eastern Cape,Beauty,Lotion,New,Cash,1,1337.52,1337.52
+467,2024-10-29,Free State,Groceries,Milk,Returning,Card,2,824.83,1649.66
+468,2024-12-21,Eastern Cape,Beauty,Shampoo,New,EFT,2,48.6,97.2
+469,2024-06-19,Northern Cape,Groceries,Cooking Oil,Returning,Card,4,34.69,138.76
+470,2024-06-04,Gauteng,Home,Iron,Returning,Mobile Payment,1,481.56,481.56
+471,2024-06-23,Northern Cape,Electronics,Smart Watch,Returning,Cash,5,133.05,665.25
+472,2024-01-07,KwaZulu-Natal,Beauty,Shampoo,New,Card,1,1113.76,1113.76
+473,2024-05-14,KwaZulu-Natal,Home,Microwave,New,EFT,5,976.76,4883.8
+474,2024-08-04,North West,Groceries,Cooking Oil,Returning,Cash,3,1248.05,3744.15
+475,2024-04-07,Western Cape,Clothing,Jacket,Returning,Cash,5,357.79,1788.95
+476,2024-03-30,North West,Home,Microwave,New,EFT,4,105.61,422.44
+477,2024-01-28,Limpopo,Beauty,Lotion,New,Cash,3,1444.9,4334.7
+478,2024-01-26,Northern Cape,Clothing,Jeans,Returning,EFT,4,937.21,3748.84
+479,2024-12-25,KwaZulu-Natal,Beauty,Perfume,New,EFT,3,1472.85,4418.55
+480,2024-06-23,KwaZulu-Natal,Home,Microwave,Returning,Mobile Payment,3,1218.59,3655.77
+481,2024-10-08,Gauteng,Home,Kettle,Returning,Cash,1,1041.2,1041.2
+482,2024-06-09,Western Cape,Home,Kettle,Returning,EFT,3,85.95,257.85
+483,2024-02-15,Free State,Electronics,Smart Watch,Returning,Card,5,1424.63,7123.15
+484,2024-08-10,Eastern Cape,Electronics,Phone Charger,Returning,Card,2,286.86,573.72
+485,2024-07-27,Western Cape,Beauty,Shampoo,New,EFT,3,1018.04,3054.12
+486,2024-12-20,North West,Home,Iron,Returning,EFT,1,311.45,311.45
+487,2024-12-22,Northern Cape,Electronics,Phone Charger,Returning,EFT,1,344.29,344.29
+488,2024-10-11,Western Cape,Electronics,Phone Charger,New,EFT,4,1247.5,4990.0
+489,2024-01-08,North West,Clothing,T-Shirt,Returning,Mobile Payment,2,1451.24,2902.48
+490,2024-03-21,KwaZulu-Natal,Home,Microwave,Returning,Card,1,698.19,698.19
+491,2024-03-14,KwaZulu-Natal,Beauty,Lotion,New,Mobile Payment,4,37.91,151.64
+492,2024-06-18,North West,Home,Iron,Returning,EFT,3,88.16,264.48
+493,2024-12-14,Eastern Cape,Clothing,Jeans,Returning,Cash,5,383.8,1919.0
+494,2024-09-04,Mpumalanga,Beauty,Lotion,New,Card,4,447.55,1790.2
+495,2024-08-28,Eastern Cape,Clothing,T-Shirt,Returning,Mobile Payment,1,1146.29,1146.29
+496,2024-12-24,Gauteng,Beauty,Lotion,Returning,Cash,3,105.4,316.2
+497,2024-03-22,KwaZulu-Natal,Home,Kettle,New,Card,4,869.29,3477.16
+498,2024-04-25,Mpumalanga,Groceries,Milk,Returning,EFT,2,1378.99,2757.98
+499,2024-07-11,Gauteng,Clothing,T-Shirt,Returning,Card,1,358.47,358.47
+500,2024-09-12,North West,Beauty,Shampoo,New,Cash,5,658.44,3292.2
+501,2024-07-06,Mpumalanga,Clothing,Jeans,New,EFT,3,438.09,1314.27
+502,2024-10-05,KwaZulu-Natal,Electronics,Headphones,New,Card,5,1149.4,5747.0
+503,2024-05-26,Mpumalanga,Home,Kettle,Returning,Mobile Payment,5,397.86,1989.3
+504,2024-07-13,North West,Groceries,Rice,New,Mobile Payment,4,456.96,1827.84
+505,2024-01-04,Eastern Cape,Beauty,Lotion,Returning,Cash,5,1161.26,5806.3
+506,2024-10-05,Free State,Groceries,Rice,New,Card,5,438.06,2190.3
+507,2024-09-05,Limpopo,Beauty,Lotion,Returning,Cash,1,20.02,20.02
+508,2024-01-03,Eastern Cape,Groceries,Milk,Returning,EFT,5,469.83,2349.15
+509,2024-08-26,Northern Cape,Home,Iron,New,Cash,3,1001.31,3003.93
+510,2024-07-24,Northern Cape,Electronics,Phone Charger,Returning,Mobile Payment,5,1074.68,5373.4
+511,2024-01-22,Free State,Clothing,Jacket,Returning,Cash,4,1477.59,5910.36
+512,2024-07-20,Western Cape,Groceries,Cooking Oil,New,Card,3,633.42,1900.26
+513,2024-08-01,Northern Cape,Groceries,Bread,New,Mobile Payment,3,950.08,2850.24
+514,2024-12-22,Limpopo,Home,Microwave,New,Cash,1,212.31,212.31
+515,2024-03-28,Western Cape,Groceries,Rice,Returning,EFT,4,1459.18,5836.72
+516,2024-06-15,Northern Cape,Clothing,Jeans,New,Card,1,200.61,200.61
+517,2024-03-10,Limpopo,Clothing,T-Shirt,Returning,Mobile Payment,5,230.41,1152.05
+518,2024-03-16,Mpumalanga,Beauty,Perfume,Returning,Cash,1,1057.73,1057.73
+519,2024-02-01,KwaZulu-Natal,Groceries,Rice,Returning,Cash,2,261.29,522.58
+520,2024-03-18,Gauteng,Clothing,Jacket,Returning,Card,4,204.09,816.36
+521,2024-12-04,Limpopo,Beauty,Perfume,New,Cash,4,847.29,3389.16
+522,2024-10-09,Limpopo,Groceries,Cooking Oil,Returning,Cash,3,655.8,1967.4
+523,2024-02-12,Northern Cape,Clothing,Jacket,Returning,EFT,4,355.56,1422.24
+524,2024-11-08,Free State,Home,Microwave,Returning,EFT,2,1309.69,2619.38
+525,2024-11-23,Gauteng,Clothing,Jeans,New,Mobile Payment,3,949.43,2848.29
+526,2024-04-06,Free State,Beauty,Perfume,New,Mobile Payment,5,542.38,2711.9
+527,2024-02-19,Northern Cape,Beauty,Lotion,New,Card,3,546.67,1640.01
+528,2024-06-15,KwaZulu-Natal,Beauty,Perfume,New,Cash,2,323.99,647.98
+529,2024-09-04,KwaZulu-Natal,Home,Iron,New,Mobile Payment,3,1182.2,3546.6
+530,2024-08-05,Gauteng,Electronics,Smart Watch,Returning,Card,2,1373.8,2747.6
+531,2024-03-22,KwaZulu-Natal,Electronics,Headphones,New,Cash,4,617.33,2469.32
+532,2024-09-22,Western Cape,Clothing,T-Shirt,New,EFT,4,129.58,518.32
+533,2024-10-21,Limpopo,Electronics,Phone Charger,Returning,EFT,2,913.38,1826.76
+534,2024-03-24,Eastern Cape,Groceries,Milk,New,Card,4,906.59,3626.36
+535,2024-10-09,Northern Cape,Beauty,Lotion,New,Mobile Payment,3,572.42,1717.26
+536,2024-09-14,KwaZulu-Natal,Groceries,Rice,New,EFT,4,389.3,1557.2
+537,2024-11-10,Limpopo,Electronics,Headphones,New,Mobile Payment,2,926.14,1852.28
+538,2024-01-25,Gauteng,Beauty,Perfume,New,Cash,4,1057.69,4230.76
+539,2024-03-23,Gauteng,Home,Microwave,Returning,Mobile Payment,1,822.15,822.15
+540,2024-09-18,Limpopo,Groceries,Bread,New,Card,2,1114.32,2228.64
+541,2024-12-06,Northern Cape,Electronics,Smart Watch,Returning,EFT,2,157.09,314.18
+542,2024-09-04,Gauteng,Home,Kettle,New,Cash,3,1090.7,3272.1
+543,2024-06-16,Mpumalanga,Groceries,Milk,New,Cash,2,1076.8,2153.6
+544,2024-03-09,Western Cape,Home,Microwave,Returning,EFT,1,337.32,337.32
+545,2024-06-09,Western Cape,Beauty,Lotion,Returning,Mobile Payment,3,338.71,1016.13
+546,2024-11-14,North West,Electronics,Phone Charger,Returning,EFT,3,750.38,2251.14
+547,2024-03-31,North West,Electronics,Phone Charger,New,Card,1,394.97,394.97
+548,2024-04-16,Northern Cape,Electronics,Headphones,New,Cash,1,325.2,325.2
+549,2024-02-25,Free State,Home,Kettle,Returning,Cash,5,1006.37,5031.85
+550,2024-06-16,KwaZulu-Natal,Electronics,Smart Watch,Returning,Mobile Payment,3,1064.08,3192.24
+551,2024-03-03,Limpopo,Clothing,T-Shirt,Returning,EFT,4,640.7,2562.8
+552,2024-09-12,Mpumalanga,Electronics,Headphones,New,EFT,5,465.55,2327.75
+553,2024-08-29,Northern Cape,Home,Microwave,New,Card,1,1151.37,1151.37
+554,2024-12-13,Free State,Beauty,Shampoo,Returning,EFT,5,1184.05,5920.25
+555,2024-03-09,Gauteng,Clothing,T-Shirt,Returning,Mobile Payment,4,680.38,2721.52
+556,2024-10-03,KwaZulu-Natal,Home,Microwave,Returning,Cash,2,812.62,1625.24
+557,2024-06-25,Mpumalanga,Beauty,Perfume,Returning,Cash,5,503.58,2517.9
+558,2024-04-18,Eastern Cape,Groceries,Bread,New,Card,5,601.24,3006.2
+559,2024-03-16,Mpumalanga,Groceries,Milk,Returning,EFT,5,1021.87,5109.35
+560,2024-06-13,Mpumalanga,Groceries,Rice,New,Mobile Payment,1,257.34,257.34
+561,2024-04-13,Free State,Home,Microwave,Returning,Cash,5,264.62,1323.1
+562,2024-05-05,Eastern Cape,Home,Iron,Returning,Card,1,530.94,530.94
+563,2024-06-10,Northern Cape,Electronics,Smart Watch,Returning,Mobile Payment,4,881.57,3526.28
+564,2024-05-31,North West,Clothing,Jeans,New,Cash,3,516.8,1550.4
+565,2024-01-19,Eastern Cape,Groceries,Rice,Returning,Mobile Payment,1,654.84,654.84
+566,2024-05-20,Limpopo,Electronics,Headphones,New,Card,5,760.17,3800.85
+567,2024-09-01,Mpumalanga,Beauty,Perfume,Returning,Mobile Payment,5,1051.01,5255.05
+568,2024-10-31,Eastern Cape,Electronics,Headphones,New,Card,5,599.95,2999.75
+569,2024-03-02,Gauteng,Groceries,Rice,New,Cash,5,1169.2,5846.0
+570,2024-04-26,Northern Cape,Clothing,T-Shirt,Returning,Mobile Payment,3,849.8,2549.4
+571,2024-03-26,Northern Cape,Groceries,Cooking Oil,New,Mobile Payment,1,708.28,708.28
+572,2024-12-04,Eastern Cape,Clothing,Jeans,Returning,Cash,1,806.73,806.73
+573,2024-01-30,Northern Cape,Beauty,Perfume,Returning,Card,3,39.78,119.34
+574,2024-12-25,KwaZulu-Natal,Clothing,Jeans,New,Mobile Payment,4,288.95,1155.8
+575,2024-11-17,Limpopo,Home,Kettle,New,Mobile Payment,1,129.68,129.68
+576,2024-12-04,Eastern Cape,Beauty,Perfume,Returning,Card,2,495.32,990.64
+577,2024-11-26,Western Cape,Clothing,Jacket,Returning,Mobile Payment,4,707.07,2828.28
+578,2024-11-12,North West,Groceries,Bread,New,Mobile Payment,4,955.34,3821.36
+579,2024-12-22,Mpumalanga,Groceries,Cooking Oil,Returning,Card,1,883.9,883.9
+580,2024-07-10,Mpumalanga,Home,Kettle,Returning,Cash,3,1013.31,3039.93
+581,2024-08-02,Eastern Cape,Home,Iron,New,Mobile Payment,5,254.84,1274.2
+582,2024-03-02,Limpopo,Electronics,Phone Charger,Returning,Mobile Payment,5,821.64,4108.2
+583,2024-04-03,Gauteng,Clothing,T-Shirt,Returning,Card,5,338.07,1690.35
+584,2024-11-13,Gauteng,Electronics,Smart Watch,Returning,Card,2,687.15,1374.3
+585,2024-08-09,Gauteng,Groceries,Rice,Returning,Cash,3,1409.82,4229.46
+586,2024-12-21,Mpumalanga,Home,Kettle,Returning,Card,2,432.12,864.24
+587,2024-11-21,North West,Beauty,Perfume,Returning,Card,4,703.05,2812.2
+588,2024-06-13,Limpopo,Beauty,Shampoo,Returning,Cash,4,341.5,1366.0
+589,2024-10-28,Western Cape,Beauty,Perfume,Returning,Card,5,952.46,4762.3
+590,2024-09-11,Mpumalanga,Groceries,Cooking Oil,Returning,Cash,3,781.02,2343.06
+591,2024-09-12,Limpopo,Electronics,Phone Charger,Returning,EFT,3,1222.82,3668.46
+592,2024-03-01,Eastern Cape,Home,Microwave,New,EFT,5,1127.31,5636.55
+593,2024-10-17,KwaZulu-Natal,Clothing,Jacket,New,EFT,5,490.79,2453.95
+594,2024-10-30,Free State,Beauty,Perfume,New,Card,3,40.27,120.81
+595,2024-07-25,Eastern Cape,Electronics,Headphones,New,Mobile Payment,4,77.63,310.52
+596,2024-01-25,KwaZulu-Natal,Beauty,Shampoo,New,Cash,5,888.67,4443.35
+597,2024-06-01,KwaZulu-Natal,Clothing,Jacket,Returning,EFT,2,1066.95,2133.9
+598,2024-07-15,Free State,Clothing,Jeans,New,Cash,2,526.02,1052.04
+599,2024-06-18,KwaZulu-Natal,Home,Iron,Returning,Cash,4,1294.35,5177.4
+600,2024-02-24,Limpopo,Clothing,Jacket,Returning,Mobile Payment,5,1018.68,5093.4
+601,2024-02-28,Northern Cape,Clothing,T-Shirt,New,Card,4,760.53,3042.12
+602,2024-11-22,KwaZulu-Natal,Electronics,Phone Charger,New,EFT,3,1126.74,3380.22
+603,2024-04-02,Western Cape,Home,Iron,Returning,Card,2,1008.29,2016.58
+604,2024-09-24,North West,Groceries,Rice,Returning,Mobile Payment,3,1055.47,3166.41
+605,2024-10-19,Gauteng,Clothing,Jeans,Returning,Card,5,247.46,1237.3
+606,2024-12-29,North West,Home,Iron,New,Card,2,1116.04,2232.08
+607,2024-05-07,KwaZulu-Natal,Home,Kettle,Returning,EFT,2,145.16,290.32
+608,2024-06-03,Free State,Clothing,Jacket,New,Mobile Payment,5,1464.76,7323.8
+609,2024-08-21,Gauteng,Groceries,Rice,New,EFT,3,64.44,193.32
+610,2024-10-02,Mpumalanga,Groceries,Cooking Oil,New,EFT,5,112.34,561.7
+611,2024-12-15,Eastern Cape,Home,Kettle,Returning,EFT,1,1281.77,1281.77
+612,2024-09-07,KwaZulu-Natal,Electronics,Phone Charger,Returning,Card,4,268.81,1075.24
+613,2024-10-19,Northern Cape,Electronics,Smart Watch,Returning,Mobile Payment,5,804.22,4021.1
+614,2024-04-02,North West,Home,Microwave,Returning,Card,3,502.86,1508.58
+615,2024-02-05,Free State,Home,Kettle,Returning,Card,4,1017.51,4070.04
+616,2024-12-09,North West,Home,Microwave,New,Card,2,527.11,1054.22
+617,2024-04-05,Free State,Electronics,Smart Watch,Returning,Card,3,853.84,2561.52
+618,2024-11-11,Mpumalanga,Electronics,Phone Charger,New,Cash,3,24.65,73.95
+619,2024-08-13,Northern Cape,Electronics,Headphones,Returning,Cash,2,437.24,874.48
+620,2024-04-15,Mpumalanga,Groceries,Cooking Oil,New,Cash,2,1007.47,2014.94
+621,2024-08-05,Free State,Groceries,Cooking Oil,Returning,Cash,1,1411.82,1411.82
+622,2024-07-29,Mpumalanga,Groceries,Rice,New,EFT,4,735.11,2940.44
+623,2024-08-11,North West,Electronics,Smart Watch,New,Cash,4,635.9,2543.6
+624,2024-03-17,Northern Cape,Groceries,Bread,Returning,Card,5,775.02,3875.1
+625,2024-07-05,Limpopo,Home,Microwave,New,Card,1,1117.57,1117.57
+626,2024-08-24,Limpopo,Home,Kettle,Returning,Mobile Payment,3,343.69,1031.07
+627,2024-02-01,Eastern Cape,Beauty,Lotion,Returning,EFT,1,1182.75,1182.75
+628,2024-09-11,Free State,Clothing,T-Shirt,Returning,Mobile Payment,3,1270.78,3812.34
+629,2024-07-31,KwaZulu-Natal,Groceries,Rice,New,EFT,1,393.92,393.92
+630,2024-04-23,Gauteng,Home,Kettle,Returning,Mobile Payment,5,1308.59,6542.95
+631,2024-09-29,North West,Beauty,Shampoo,Returning,Mobile Payment,4,698.32,2793.28
+632,2024-11-23,North West,Electronics,Smart Watch,New,Card,5,1418.11,7090.55
+633,2024-07-07,Mpumalanga,Clothing,T-Shirt,Returning,Card,5,710.12,3550.6
+634,2024-01-13,Western Cape,Electronics,Smart Watch,New,Card,1,1062.04,1062.04
+635,2024-05-28,Mpumalanga,Electronics,Headphones,New,Mobile Payment,3,65.09,195.27
+636,2024-12-29,Free State,Clothing,Jacket,New,Mobile Payment,1,713.13,713.13
+637,2024-05-16,Limpopo,Home,Iron,New,Cash,1,1282.41,1282.41
+638,2024-09-21,Gauteng,Home,Microwave,New,Card,3,684.58,2053.74
+639,2024-11-16,North West,Groceries,Bread,Returning,Card,3,276.77,830.31
+640,2024-08-08,Free State,Clothing,Jacket,New,Mobile Payment,3,984.24,2952.72
+641,2024-11-05,North West,Electronics,Phone Charger,New,Cash,5,1129.15,5645.75
+642,2024-05-28,Eastern Cape,Clothing,Jacket,Returning,EFT,3,452.92,1358.76
+643,2024-01-06,Eastern Cape,Clothing,Jacket,Returning,Card,4,903.99,3615.96
+644,2024-03-08,Limpopo,Home,Iron,Returning,Cash,5,1329.59,6647.95
+645,2024-10-14,Gauteng,Clothing,Jeans,New,Mobile Payment,5,35.22,176.1
+646,2024-12-20,North West,Home,Iron,Returning,EFT,3,481.58,1444.74
+647,2024-10-22,Gauteng,Home,Kettle,New,Mobile Payment,2,528.21,1056.42
+648,2024-07-02,North West,Electronics,Phone Charger,New,Card,4,264.03,1056.12
+649,2024-04-27,Northern Cape,Beauty,Shampoo,Returning,Mobile Payment,2,300.3,600.6
+650,2024-07-13,Gauteng,Electronics,Smart Watch,New,EFT,3,455.51,1366.53
+651,2024-06-23,Western Cape,Home,Kettle,New,EFT,5,389.2,1946.0
+652,2024-07-01,Gauteng,Electronics,Smart Watch,Returning,Cash,4,484.54,1938.16
+653,2024-12-05,Gauteng,Electronics,Phone Charger,Returning,Card,3,526.32,1578.96
+654,2024-10-20,KwaZulu-Natal,Beauty,Lotion,New,Card,5,806.55,4032.75
+655,2024-03-10,Gauteng,Groceries,Bread,New,Mobile Payment,1,597.38,597.38
+656,2024-05-28,Eastern Cape,Home,Microwave,Returning,Mobile Payment,4,880.5,3522.0
+657,2024-07-18,Mpumalanga,Clothing,Jeans,New,Cash,2,503.66,1007.32
+658,2024-02-06,North West,Beauty,Lotion,New,Cash,5,131.98,659.9
+659,2024-01-02,Gauteng,Beauty,Shampoo,Returning,Mobile Payment,1,1345.63,1345.63
+660,2024-11-27,Mpumalanga,Clothing,Jeans,Returning,Cash,3,807.79,2423.37
+661,2024-08-07,Northern Cape,Clothing,Jacket,New,EFT,5,384.44,1922.2
+662,2024-02-21,Northern Cape,Electronics,Headphones,Returning,Cash,2,94.52,189.04
+663,2024-07-09,Limpopo,Beauty,Perfume,Returning,Cash,1,394.23,394.23
+664,2024-01-08,Gauteng,Groceries,Milk,New,Card,3,539.21,1617.63
+665,2024-03-18,Limpopo,Electronics,Headphones,New,Card,1,1255.19,1255.19
+666,2024-08-28,Free State,Beauty,Perfume,Returning,EFT,5,589.22,2946.1
+667,2024-10-31,Mpumalanga,Home,Iron,New,Card,5,1401.95,7009.75
+668,2024-07-16,Western Cape,Electronics,Smart Watch,Returning,Mobile Payment,5,481.47,2407.35
+669,2024-02-13,Mpumalanga,Groceries,Bread,New,EFT,5,351.49,1757.45
+670,2024-04-09,Eastern Cape,Clothing,Jacket,Returning,Card,4,1046.14,4184.56
+671,2024-12-28,Western Cape,Home,Kettle,New,EFT,5,572.72,2863.6
+672,2024-08-26,KwaZulu-Natal,Home,Kettle,Returning,EFT,2,815.92,1631.84
+673,2024-10-10,Western Cape,Home,Iron,New,EFT,4,640.39,2561.56
+674,2024-09-20,Mpumalanga,Clothing,Jacket,Returning,Mobile Payment,1,483.31,483.31
+675,2024-10-12,Limpopo,Clothing,Jacket,Returning,Card,2,488.55,977.1
+676,2024-04-07,Mpumalanga,Beauty,Shampoo,New,Card,5,609.38,3046.9
+677,2024-01-06,Western Cape,Electronics,Headphones,New,Mobile Payment,4,580.98,2323.92
+678,2024-01-06,North West,Electronics,Headphones,New,EFT,5,1354.34,6771.7
+679,2024-04-05,KwaZulu-Natal,Clothing,Jeans,New,Mobile Payment,3,1075.01,3225.03
+680,2024-08-01,North West,Groceries,Bread,Returning,EFT,3,531.79,1595.37
+681,2024-01-03,Northern Cape,Groceries,Cooking Oil,Returning,Mobile Payment,3,692.52,2077.56
+682,2024-11-24,Mpumalanga,Groceries,Milk,Returning,EFT,1,470.65,470.65
+683,2024-09-12,Mpumalanga,Beauty,Perfume,Returning,Cash,5,474.68,2373.4
+684,2024-01-25,Northern Cape,Home,Iron,Returning,Card,5,856.82,4284.1
+685,2024-08-13,Eastern Cape,Groceries,Bread,New,EFT,3,911.63,2734.89
+686,2024-07-27,Western Cape,Beauty,Shampoo,Returning,Cash,5,470.81,2354.05
+687,2024-08-28,Eastern Cape,Electronics,Phone Charger,Returning,EFT,3,78.3,234.9
+688,2024-12-29,KwaZulu-Natal,Beauty,Perfume,New,Card,2,1421.2,2842.4
+689,2024-03-19,North West,Electronics,Phone Charger,New,EFT,3,812.34,2437.02
+690,2024-09-09,Gauteng,Home,Kettle,Returning,Mobile Payment,3,1212.36,3637.08
+691,2024-10-10,Limpopo,Beauty,Shampoo,New,EFT,2,161.13,322.26
+692,2024-06-28,Free State,Home,Kettle,New,EFT,2,1000.94,2001.88
+693,2024-04-15,Free State,Home,Microwave,Returning,Cash,4,258.82,1035.28
+694,2024-10-07,Limpopo,Clothing,Jacket,New,Mobile Payment,4,830.17,3320.68
+695,2024-12-21,Eastern Cape,Electronics,Phone Charger,New,Card,2,103.89,207.78
+696,2024-06-28,KwaZulu-Natal,Beauty,Perfume,New,Mobile Payment,5,530.33,2651.65
+697,2024-03-10,KwaZulu-Natal,Groceries,Rice,New,EFT,3,628.73,1886.19
+698,2024-02-19,Western Cape,Groceries,Cooking Oil,New,Mobile Payment,1,827.46,827.46
+699,2024-10-26,Western Cape,Clothing,T-Shirt,New,Card,2,71.71,143.42
+700,2024-06-07,Eastern Cape,Groceries,Milk,New,Cash,4,1466.37,5865.48
+701,2024-10-14,Western Cape,Beauty,Perfume,New,Mobile Payment,3,1478.06,4434.18
+702,2024-09-29,Mpumalanga,Electronics,Phone Charger,New,EFT,2,508.82,1017.64
+703,2024-01-04,Mpumalanga,Clothing,T-Shirt,Returning,EFT,3,843.16,2529.48
+704,2024-12-13,Gauteng,Electronics,Smart Watch,New,Mobile Payment,1,1337.07,1337.07
+705,2024-09-16,Eastern Cape,Beauty,Lotion,Returning,EFT,2,911.66,1823.32
+706,2024-01-12,Eastern Cape,Electronics,Smart Watch,Returning,EFT,3,1273.39,3820.17
+707,2024-11-11,Limpopo,Groceries,Milk,Returning,Mobile Payment,2,1153.43,2306.86
+708,2024-10-24,North West,Home,Kettle,New,Cash,5,706.82,3534.1
+709,2024-09-02,Limpopo,Groceries,Milk,New,Mobile Payment,2,391.6,783.2
+710,2024-06-10,Northern Cape,Electronics,Smart Watch,Returning,Mobile Payment,3,1106.54,3319.62
+711,2024-12-17,Northern Cape,Groceries,Cooking Oil,Returning,Mobile Payment,2,40.25,80.5
+712,2024-05-03,KwaZulu-Natal,Home,Microwave,Returning,Card,4,1170.63,4682.52
+713,2024-10-11,Free State,Clothing,Jeans,Returning,Mobile Payment,1,1448.65,1448.65
+714,2024-11-29,Free State,Beauty,Perfume,Returning,Mobile Payment,5,122.7,613.5
+715,2024-02-05,KwaZulu-Natal,Electronics,Phone Charger,Returning,Card,4,243.02,972.08
+716,2024-05-27,Western Cape,Beauty,Shampoo,Returning,EFT,1,1259.55,1259.55
+717,2024-05-28,North West,Beauty,Perfume,New,Card,3,1387.94,4163.82
+718,2024-11-12,Mpumalanga,Home,Kettle,Returning,Mobile Payment,5,1259.15,6295.75
+719,2024-02-13,Western Cape,Home,Kettle,New,Cash,1,701.79,701.79
+720,2024-02-12,Gauteng,Clothing,Jacket,New,EFT,3,462.2,1386.6
+721,2024-07-08,Mpumalanga,Clothing,T-Shirt,Returning,Mobile Payment,4,396.63,1586.52
+722,2024-07-19,Limpopo,Beauty,Perfume,New,Cash,4,857.3,3429.2
+723,2024-03-29,North West,Electronics,Headphones,New,Cash,5,595.31,2976.55
+724,2024-02-23,North West,Home,Microwave,New,Cash,3,1247.99,3743.97
+725,2024-07-11,Free State,Electronics,Smart Watch,New,Cash,4,882.42,3529.68
+726,2024-01-08,Eastern Cape,Groceries,Milk,New,EFT,5,1292.14,6460.7
+727,2024-07-22,KwaZulu-Natal,Home,Microwave,New,Mobile Payment,5,876.17,4380.85
+728,2024-10-01,Limpopo,Groceries,Rice,New,Cash,4,650.39,2601.56
+729,2024-03-26,KwaZulu-Natal,Clothing,T-Shirt,New,Cash,5,58.02,290.1
+730,2024-07-18,Eastern Cape,Beauty,Lotion,Returning,EFT,3,310.44,931.32
+731,2024-07-29,Mpumalanga,Clothing,T-Shirt,New,Mobile Payment,4,1161.84,4647.36
+732,2024-10-20,Western Cape,Clothing,Jeans,New,EFT,2,1233.7,2467.4
+733,2024-03-05,Eastern Cape,Home,Iron,Returning,Mobile Payment,1,928.18,928.18
+734,2024-11-19,Northern Cape,Clothing,Jeans,Returning,Card,3,1363.45,4090.35
+735,2024-02-15,Free State,Home,Microwave,Returning,Mobile Payment,3,1368.78,4106.34
+736,2024-02-23,Northern Cape,Groceries,Bread,Returning,Card,1,1253.14,1253.14
+737,2024-05-01,Limpopo,Home,Microwave,New,EFT,1,1020.64,1020.64
+738,2024-11-08,Northern Cape,Beauty,Perfume,Returning,Cash,2,885.12,1770.24
+739,2024-02-04,Gauteng,Clothing,T-Shirt,New,Mobile Payment,4,265.76,1063.04
+740,2024-08-04,Eastern Cape,Home,Kettle,Returning,Card,5,190.42,952.1
+741,2024-08-31,Limpopo,Clothing,Jacket,Returning,EFT,5,674.21,3371.05
+742,2024-06-17,Northern Cape,Groceries,Milk,New,Mobile Payment,1,1432.76,1432.76
+743,2024-01-01,Free State,Beauty,Lotion,Returning,Card,3,520.36,1561.08
+744,2024-08-05,KwaZulu-Natal,Home,Kettle,New,EFT,4,329.07,1316.28
+745,2024-09-09,North West,Electronics,Headphones,New,Mobile Payment,5,873.93,4369.65
+746,2024-11-29,Northern Cape,Electronics,Smart Watch,Returning,Mobile Payment,3,857.46,2572.38
+747,2024-07-05,KwaZulu-Natal,Home,Kettle,New,Cash,3,244.14,732.42
+748,2024-06-06,Limpopo,Electronics,Smart Watch,New,Card,1,1246.09,1246.09
+749,2024-06-29,Mpumalanga,Home,Iron,New,Cash,4,1179.53,4718.12
+750,2024-03-10,North West,Electronics,Phone Charger,Returning,Card,2,282.19,564.38
+751,2024-12-22,Northern Cape,Clothing,T-Shirt,Returning,Cash,2,879.35,1758.7
+752,2024-06-03,Mpumalanga,Electronics,Headphones,New,Card,4,1426.79,5707.16
+753,2024-07-08,Free State,Beauty,Perfume,New,Card,5,434.9,2174.5
+754,2024-09-30,Eastern Cape,Home,Microwave,New,EFT,5,192.36,961.8
+755,2024-12-29,KwaZulu-Natal,Electronics,Phone Charger,New,Card,5,1360.2,6801.0
+756,2024-01-22,Western Cape,Home,Kettle,Returning,EFT,2,1203.68,2407.36
+757,2024-09-07,Mpumalanga,Electronics,Headphones,Returning,Mobile Payment,1,41.56,41.56
+758,2024-05-29,Free State,Home,Microwave,New,Cash,1,865.98,865.98
+759,2024-10-21,Mpumalanga,Electronics,Headphones,New,EFT,3,355.62,1066.86
+760,2024-02-04,Limpopo,Clothing,Jacket,Returning,EFT,2,319.4,638.8
+761,2024-01-08,Mpumalanga,Beauty,Shampoo,Returning,Mobile Payment,3,1327.68,3983.04
+762,2024-05-15,Mpumalanga,Home,Microwave,Returning,Cash,5,58.2,291.0
+763,2024-11-22,Mpumalanga,Clothing,T-Shirt,Returning,Card,4,401.99,1607.96
+764,2024-01-01,North West,Groceries,Milk,Returning,Cash,1,975.45,975.45
+765,2024-07-06,Northern Cape,Groceries,Milk,Returning,Cash,4,1476.37,5905.48
+766,2024-01-18,Western Cape,Clothing,Jeans,New,Mobile Payment,5,1424.49,7122.45
+767,2024-06-08,Northern Cape,Groceries,Cooking Oil,Returning,Mobile Payment,3,510.1,1530.3
+768,2024-11-18,North West,Home,Kettle,Returning,Mobile Payment,4,282.08,1128.32
+769,2024-04-27,Western Cape,Beauty,Shampoo,New,Card,5,163.51,817.55
+770,2024-11-14,Western Cape,Electronics,Phone Charger,New,Cash,5,723.13,3615.65
+771,2024-01-26,Limpopo,Clothing,Jacket,New,Mobile Payment,3,500.89,1502.67
+772,2024-08-01,Mpumalanga,Groceries,Bread,Returning,Card,3,1114.73,3344.19
+773,2024-12-13,Gauteng,Clothing,Jeans,New,Mobile Payment,4,1101.69,4406.76
+774,2024-04-08,Western Cape,Clothing,T-Shirt,New,EFT,1,1436.65,1436.65
+775,2024-01-16,Eastern Cape,Beauty,Lotion,Returning,Cash,4,1494.86,5979.44
+776,2024-03-25,Northern Cape,Home,Microwave,New,Cash,5,662.4,3312.0
+777,2024-12-17,Western Cape,Clothing,Jacket,New,EFT,3,1057.07,3171.21
+778,2024-12-12,Western Cape,Groceries,Bread,Returning,EFT,1,314.24,314.24
+779,2024-12-12,Limpopo,Clothing,Jeans,New,Cash,2,84.11,168.22
+780,2024-03-30,North West,Beauty,Shampoo,Returning,Cash,1,1198.44,1198.44
+781,2024-04-26,Gauteng,Beauty,Shampoo,Returning,Cash,4,406.77,1627.08
+782,2024-05-13,Northern Cape,Electronics,Headphones,New,Card,2,29.57,59.14
+783,2024-12-20,Gauteng,Beauty,Perfume,Returning,EFT,2,1413.38,2826.76
+784,2024-08-24,Eastern Cape,Electronics,Headphones,Returning,Cash,4,622.9,2491.6
+785,2024-05-05,Western Cape,Home,Kettle,New,Mobile Payment,5,751.89,3759.45
+786,2024-01-25,Limpopo,Electronics,Headphones,New,Cash,3,1216.42,3649.26
+787,2024-12-01,North West,Groceries,Milk,New,Card,3,263.64,790.92
+788,2024-01-21,Limpopo,Electronics,Headphones,Returning,Cash,5,899.19,4495.95
+789,2024-08-31,Western Cape,Clothing,Jacket,Returning,Mobile Payment,2,1163.55,2327.1
+790,2024-01-04,North West,Home,Kettle,New,Cash,1,915.16,915.16
+791,2024-05-22,Eastern Cape,Groceries,Milk,New,Mobile Payment,4,413.68,1654.72
+792,2024-05-25,Western Cape,Beauty,Perfume,New,Cash,5,855.59,4277.95
+793,2024-04-04,Northern Cape,Home,Iron,Returning,EFT,5,1085.83,5429.15
+794,2024-10-24,KwaZulu-Natal,Groceries,Milk,Returning,Cash,5,21.38,106.9
+795,2024-03-13,KwaZulu-Natal,Home,Kettle,New,Card,2,1369.35,2738.7
+796,2024-07-24,Eastern Cape,Home,Microwave,New,EFT,5,1403.12,7015.6
+797,2024-07-01,Gauteng,Groceries,Rice,New,Card,2,506.27,1012.54
+798,2024-04-15,Mpumalanga,Groceries,Bread,Returning,EFT,2,871.09,1742.18
+799,2024-12-05,Free State,Electronics,Smart Watch,New,Card,2,325.74,651.48
+800,2024-08-04,Mpumalanga,Clothing,Jacket,New,EFT,1,567.94,567.94
+801,2024-10-31,Northern Cape,Groceries,Rice,Returning,EFT,4,577.48,2309.92
+802,2024-03-23,Gauteng,Clothing,Jeans,New,Cash,4,907.95,3631.8
+803,2024-02-05,Northern Cape,Beauty,Perfume,Returning,Mobile Payment,3,1181.92,3545.76
+804,2024-12-02,North West,Electronics,Smart Watch,New,Card,5,505.68,2528.4
+805,2024-03-15,Limpopo,Clothing,Jeans,New,Card,2,114.25,228.5
+806,2024-12-24,North West,Clothing,Jeans,New,Mobile Payment,5,1030.33,5151.65
+807,2024-06-05,North West,Clothing,Jacket,Returning,Card,1,1480.11,1480.11
+808,2024-08-24,North West,Home,Microwave,New,EFT,3,964.76,2894.28
+809,2024-05-02,Free State,Groceries,Rice,New,Card,4,307.91,1231.64
+810,2024-07-27,Eastern Cape,Home,Kettle,Returning,Cash,1,475.65,475.65
+811,2024-09-09,Gauteng,Clothing,Jacket,Returning,Mobile Payment,3,1261.5,3784.5
+812,2024-07-24,Western Cape,Home,Microwave,New,EFT,2,623.51,1247.02
+813,2024-09-20,Eastern Cape,Clothing,Jacket,Returning,EFT,2,954.44,1908.88
+814,2024-12-17,KwaZulu-Natal,Beauty,Shampoo,New,Cash,2,1167.75,2335.5
+815,2024-12-14,Western Cape,Groceries,Milk,Returning,Card,4,800.79,3203.16
+816,2024-01-14,North West,Beauty,Perfume,New,Card,5,635.47,3177.35
+817,2024-02-25,KwaZulu-Natal,Electronics,Headphones,New,Cash,5,1001.46,5007.3
+818,2024-11-01,Gauteng,Beauty,Lotion,New,Cash,3,1344.68,4034.04
+819,2024-12-15,Limpopo,Electronics,Smart Watch,New,EFT,2,1397.62,2795.24
+820,2024-01-16,Eastern Cape,Groceries,Bread,New,Cash,5,1382.62,6913.1
+821,2024-09-21,KwaZulu-Natal,Groceries,Bread,Returning,Mobile Payment,2,345.06,690.12
+822,2024-04-06,Western Cape,Electronics,Smart Watch,New,Cash,5,198.14,990.7
+823,2024-03-22,Gauteng,Groceries,Bread,Returning,Card,4,778.34,3113.36
+824,2024-11-13,Western Cape,Groceries,Rice,New,Card,4,1378.4,5513.6
+825,2024-06-30,Gauteng,Electronics,Headphones,New,EFT,5,140.12,700.6
+826,2024-06-30,Eastern Cape,Beauty,Lotion,Returning,Card,1,1294.94,1294.94
+827,2024-09-04,Western Cape,Electronics,Phone Charger,Returning,EFT,4,1483.48,5933.92
+828,2024-02-21,Western Cape,Electronics,Headphones,New,Cash,4,1488.36,5953.44
+829,2024-11-27,Eastern Cape,Beauty,Lotion,Returning,EFT,1,30.33,30.33
+830,2024-01-24,Mpumalanga,Home,Microwave,New,Card,1,1428.07,1428.07
+831,2024-10-12,Limpopo,Groceries,Rice,New,Mobile Payment,4,637.74,2550.96
+832,2024-01-31,Western Cape,Beauty,Perfume,New,Card,1,814.82,814.82
+833,2024-10-04,Eastern Cape,Groceries,Milk,Returning,EFT,1,1269.59,1269.59
+834,2024-04-23,Gauteng,Clothing,T-Shirt,Returning,Cash,4,50.72,202.88
+835,2024-08-06,Free State,Beauty,Lotion,New,Mobile Payment,5,274.38,1371.9
+836,2024-01-26,Gauteng,Home,Microwave,Returning,Card,5,734.62,3673.1
+837,2024-06-29,Mpumalanga,Clothing,T-Shirt,Returning,EFT,1,1208.41,1208.41
+838,2024-03-18,Mpumalanga,Electronics,Phone Charger,Returning,EFT,5,602.11,3010.55
+839,2024-05-19,Limpopo,Electronics,Phone Charger,Returning,Mobile Payment,2,479.26,958.52
+840,2024-02-27,Limpopo,Groceries,Cooking Oil,New,Card,1,250.54,250.54
+841,2024-11-30,Gauteng,Beauty,Shampoo,New,Mobile Payment,2,330.65,661.3
+842,2024-11-12,Western Cape,Beauty,Perfume,New,Card,3,1422.71,4268.13
+843,2024-03-19,Eastern Cape,Groceries,Cooking Oil,New,Cash,5,527.03,2635.15
+844,2024-03-11,Eastern Cape,Electronics,Headphones,Returning,Mobile Payment,1,806.04,806.04
+845,2024-09-26,KwaZulu-Natal,Electronics,Smart Watch,Returning,Card,1,515.49,515.49
+846,2024-08-15,Free State,Electronics,Smart Watch,Returning,Mobile Payment,2,902.77,1805.54
+847,2024-06-18,Eastern Cape,Groceries,Bread,Returning,Mobile Payment,2,1452.26,2904.52
+848,2024-11-15,Western Cape,Groceries,Cooking Oil,Returning,Card,3,1074.75,3224.25
+849,2024-08-02,Limpopo,Home,Iron,Returning,EFT,5,527.54,2637.7
+850,2024-04-10,Free State,Electronics,Headphones,Returning,Cash,3,102.5,307.5
+851,2024-08-16,Northern Cape,Beauty,Lotion,Returning,Mobile Payment,1,152.84,152.84
+852,2024-09-29,Free State,Groceries,Cooking Oil,Returning,Mobile Payment,1,527.4,527.4
+853,2024-07-01,North West,Electronics,Smart Watch,Returning,Cash,5,829.08,4145.4
+854,2024-04-10,Western Cape,Groceries,Milk,New,Cash,2,266.02,532.04
+855,2024-02-16,Northern Cape,Groceries,Bread,New,EFT,4,1429.05,5716.2
+856,2024-01-19,KwaZulu-Natal,Clothing,Jacket,Returning,Cash,4,355.93,1423.72
+857,2024-06-29,Eastern Cape,Electronics,Phone Charger,Returning,Cash,4,943.88,3775.52
+858,2024-03-16,Gauteng,Electronics,Smart Watch,Returning,EFT,1,462.86,462.86
+859,2024-12-20,North West,Clothing,Jacket,Returning,Mobile Payment,1,1275.74,1275.74
+860,2024-07-07,Limpopo,Beauty,Lotion,Returning,Cash,4,1211.54,4846.16
+861,2024-05-23,North West,Groceries,Bread,New,EFT,2,112.51,225.02
+862,2024-08-20,Mpumalanga,Home,Iron,New,Card,4,295.9,1183.6
+863,2024-03-08,Western Cape,Groceries,Bread,Returning,Mobile Payment,4,339.73,1358.92
+864,2024-09-25,North West,Groceries,Cooking Oil,Returning,Card,2,797.07,1594.14
+865,2024-03-06,Northern Cape,Home,Iron,New,EFT,5,324.85,1624.25
+866,2024-05-09,KwaZulu-Natal,Beauty,Perfume,Returning,EFT,1,1261.87,1261.87
+867,2024-04-09,Eastern Cape,Clothing,Jacket,Returning,Mobile Payment,4,1057.28,4229.12
+868,2024-10-04,Western Cape,Beauty,Lotion,Returning,Mobile Payment,5,1348.15,6740.75
+869,2024-03-11,Eastern Cape,Clothing,Jeans,Returning,Mobile Payment,5,602.58,3012.9
+870,2024-05-14,Free State,Clothing,T-Shirt,New,EFT,3,144.71,434.13
+871,2024-10-19,Northern Cape,Clothing,Jeans,New,EFT,5,1065.77,5328.85
+872,2024-11-23,Free State,Beauty,Lotion,New,EFT,1,786.75,786.75
+873,2024-01-14,Limpopo,Electronics,Headphones,Returning,EFT,3,473.28,1419.84
+874,2024-05-24,Eastern Cape,Electronics,Headphones,Returning,EFT,2,1094.61,2189.22
+875,2024-12-19,Free State,Clothing,T-Shirt,Returning,Cash,4,104.82,419.28
+876,2024-01-12,Gauteng,Home,Iron,Returning,Card,5,203.68,1018.4
+877,2024-05-19,Northern Cape,Beauty,Perfume,Returning,Mobile Payment,3,942.6,2827.8
+878,2024-01-10,Free State,Electronics,Smart Watch,Returning,Mobile Payment,4,788.58,3154.32
+879,2024-01-14,Limpopo,Home,Kettle,Returning,Cash,2,665.64,1331.28
+880,2024-05-14,Northern Cape,Beauty,Lotion,New,Card,4,1385.51,5542.04
+881,2024-05-24,Eastern Cape,Beauty,Lotion,Returning,Card,4,1281.27,5125.08
+882,2024-12-06,Northern Cape,Clothing,Jeans,Returning,EFT,5,786.66,3933.3
+883,2024-11-08,KwaZulu-Natal,Groceries,Rice,Returning,Mobile Payment,2,130.85,261.7
+884,2024-06-28,Northern Cape,Electronics,Smart Watch,New,EFT,2,767.27,1534.54
+885,2024-12-08,Mpumalanga,Electronics,Headphones,Returning,Cash,4,648.93,2595.72
+886,2024-08-16,Western Cape,Beauty,Lotion,Returning,EFT,2,168.83,337.66
+887,2024-04-19,North West,Clothing,Jeans,Returning,Cash,5,864.94,4324.7
+888,2024-06-25,Western Cape,Home,Kettle,Returning,Card,2,618.28,1236.56
+889,2024-11-19,Eastern Cape,Home,Kettle,Returning,Cash,5,1057.28,5286.4
+890,2024-11-16,North West,Clothing,Jeans,Returning,Cash,3,437.24,1311.72
+891,2024-01-05,Limpopo,Groceries,Cooking Oil,New,EFT,2,1370.95,2741.9
+892,2024-07-04,Western Cape,Beauty,Perfume,New,Mobile Payment,2,782.65,1565.3
+893,2024-09-14,Free State,Home,Iron,New,Card,5,1293.79,6468.95
+894,2024-09-27,Free State,Electronics,Smart Watch,New,Cash,4,1207.02,4828.08
+895,2024-06-29,Western Cape,Clothing,Jeans,New,Card,4,942.79,3771.16
+896,2024-03-05,KwaZulu-Natal,Home,Microwave,New,Mobile Payment,4,1139.55,4558.2
+897,2024-12-06,Gauteng,Electronics,Headphones,New,EFT,5,1493.36,7466.8
+898,2024-07-07,KwaZulu-Natal,Beauty,Perfume,Returning,Mobile Payment,3,321.23,963.69
+899,2024-03-30,Free State,Beauty,Lotion,Returning,Mobile Payment,1,32.99,32.99
+900,2024-08-31,Limpopo,Groceries,Cooking Oil,Returning,Mobile Payment,1,816.78,816.78
+901,2024-11-28,Mpumalanga,Clothing,T-Shirt,Returning,Cash,2,1404.38,2808.76
+902,2024-11-19,Free State,Electronics,Phone Charger,New,EFT,3,1408.51,4225.53
+903,2024-03-14,Northern Cape,Groceries,Cooking Oil,New,Card,5,1395.52,6977.6
+904,2024-01-10,Limpopo,Beauty,Shampoo,Returning,EFT,3,378.54,1135.62
+905,2024-04-10,Eastern Cape,Electronics,Headphones,New,Cash,4,373.74,1494.96
+906,2024-03-03,Northern Cape,Beauty,Lotion,New,Card,3,1422.58,4267.74
+907,2024-09-11,Western Cape,Groceries,Milk,New,Mobile Payment,4,744.06,2976.24
+908,2024-06-15,Gauteng,Electronics,Headphones,Returning,EFT,2,721.98,1443.96
+909,2024-03-30,Gauteng,Clothing,Jacket,Returning,Card,2,1017.58,2035.16
+910,2024-07-17,Mpumalanga,Home,Kettle,Returning,Cash,3,627.88,1883.64
+911,2024-06-25,Northern Cape,Clothing,Jacket,New,Cash,2,1288.12,2576.24
+912,2024-07-13,Limpopo,Clothing,Jeans,New,Card,4,723.69,2894.76
+913,2024-10-31,Mpumalanga,Electronics,Headphones,New,Mobile Payment,2,731.23,1462.46
+914,2024-12-08,Limpopo,Home,Microwave,New,Mobile Payment,4,321.91,1287.64
+915,2024-02-06,Eastern Cape,Home,Kettle,Returning,Cash,5,450.5,2252.5
+916,2024-11-03,Eastern Cape,Electronics,Phone Charger,New,Mobile Payment,4,460.83,1843.32
+917,2024-02-03,Western Cape,Groceries,Cooking Oil,New,EFT,5,512.44,2562.2
+918,2024-01-10,Limpopo,Electronics,Phone Charger,New,Mobile Payment,1,285.16,285.16
+919,2024-08-18,Free State,Clothing,T-Shirt,Returning,Cash,1,1086.28,1086.28
+920,2024-07-03,KwaZulu-Natal,Groceries,Bread,New,Mobile Payment,1,1166.24,1166.24
+921,2024-06-09,North West,Clothing,Jacket,New,Card,3,1179.58,3538.74
+922,2024-04-17,Limpopo,Beauty,Perfume,New,Cash,1,1480.3,1480.3
+923,2024-03-20,North West,Electronics,Smart Watch,Returning,EFT,5,1419.15,7095.75
+924,2024-04-29,Free State,Home,Iron,Returning,EFT,1,1439.13,1439.13
+925,2024-07-11,Eastern Cape,Groceries,Bread,Returning,Cash,3,619.35,1858.05
+926,2024-08-24,Limpopo,Clothing,T-Shirt,New,EFT,3,1100.4,3301.2
+927,2024-07-16,Eastern Cape,Home,Kettle,New,Cash,2,468.77,937.54
+928,2024-11-17,Eastern Cape,Groceries,Rice,New,Mobile Payment,1,29.15,29.15
+929,2024-01-17,Western Cape,Electronics,Phone Charger,New,Card,3,815.56,2446.68
+930,2024-09-02,Mpumalanga,Home,Microwave,New,EFT,1,335.45,335.45
+931,2024-07-15,KwaZulu-Natal,Home,Kettle,Returning,Cash,4,1466.64,5866.56
+932,2024-11-20,Western Cape,Groceries,Cooking Oil,Returning,Cash,3,173.56,520.68
+933,2024-07-21,Eastern Cape,Clothing,Jeans,New,Cash,1,1280.73,1280.73
+934,2024-07-06,Eastern Cape,Groceries,Rice,Returning,EFT,4,374.68,1498.72
+935,2024-07-31,Gauteng,Clothing,T-Shirt,New,Cash,4,1064.13,4256.52
+936,2024-04-12,Limpopo,Electronics,Smart Watch,Returning,Mobile Payment,3,33.45,100.35
+937,2024-03-22,North West,Clothing,Jeans,Returning,EFT,3,226.39,679.17
+938,2024-02-07,Northern Cape,Electronics,Smart Watch,New,Cash,4,156.83,627.32
+939,2024-08-07,KwaZulu-Natal,Clothing,Jacket,New,Mobile Payment,2,386.49,772.98
+940,2024-07-24,Limpopo,Groceries,Cooking Oil,New,EFT,4,257.74,1030.96
+941,2024-08-04,Gauteng,Home,Kettle,New,Cash,4,1236.19,4944.76
+942,2024-10-24,Limpopo,Home,Iron,Returning,Mobile Payment,5,1072.52,5362.6
+943,2024-04-17,Gauteng,Electronics,Phone Charger,Returning,EFT,2,793.3,1586.6
+944,2024-04-28,Western Cape,Groceries,Rice,Returning,Card,3,918.84,2756.52
+945,2024-02-13,Limpopo,Beauty,Lotion,Returning,Cash,3,332.24,996.72
+946,2024-03-14,Eastern Cape,Electronics,Smart Watch,New,Cash,3,217.99,653.97
+947,2024-11-17,KwaZulu-Natal,Home,Kettle,Returning,EFT,1,937.95,937.95
+948,2024-08-06,Eastern Cape,Groceries,Cooking Oil,New,Mobile Payment,3,628.49,1885.47
+949,2024-12-22,North West,Home,Microwave,Returning,Card,3,1204.2,3612.6
+950,2024-11-19,Limpopo,Clothing,Jacket,New,Mobile Payment,4,659.7,2638.8
+951,2024-09-05,KwaZulu-Natal,Groceries,Rice,Returning,Mobile Payment,1,1058.32,1058.32
+952,2024-04-16,Mpumalanga,Home,Microwave,New,EFT,3,1154.04,3462.12
+953,2024-03-24,Mpumalanga,Home,Iron,New,Cash,4,1095.99,4383.96
+954,2024-01-13,North West,Groceries,Bread,Returning,Cash,5,862.1,4310.5
+955,2024-01-05,Mpumalanga,Groceries,Cooking Oil,New,Mobile Payment,5,23.07,115.35
+956,2024-07-18,Mpumalanga,Electronics,Phone Charger,New,Card,4,787.75,3151.0
+957,2024-07-17,Mpumalanga,Groceries,Rice,New,Cash,4,497.76,1991.04
+958,2024-08-25,Limpopo,Clothing,Jeans,Returning,Card,5,470.1,2350.5
+959,2024-03-12,Free State,Home,Kettle,New,Mobile Payment,4,77.36,309.44
+960,2024-09-30,Limpopo,Groceries,Milk,Returning,Cash,2,802.49,1604.98
+961,2024-05-17,Western Cape,Beauty,Lotion,New,Cash,3,453.13,1359.39
+962,2024-06-17,Free State,Clothing,Jeans,New,Mobile Payment,4,795.81,3183.24
+963,2024-07-07,Mpumalanga,Beauty,Perfume,Returning,EFT,5,1118.6,5593.0
+964,2024-08-13,Free State,Beauty,Perfume,New,Mobile Payment,5,1415.61,7078.05
+965,2024-12-14,Limpopo,Electronics,Smart Watch,New,Card,3,1109.16,3327.48
+966,2024-03-04,KwaZulu-Natal,Clothing,Jacket,New,Cash,4,706.72,2826.88
+967,2024-02-08,Limpopo,Electronics,Smart Watch,Returning,Card,3,350.05,1050.15
+968,2024-04-08,Eastern Cape,Clothing,Jacket,New,Mobile Payment,2,1321.4,2642.8
+969,2024-07-09,Eastern Cape,Groceries,Bread,Returning,Card,3,669.91,2009.73
+970,2024-09-14,Western Cape,Home,Kettle,Returning,Card,2,101.55,203.1
+971,2024-06-12,Limpopo,Beauty,Perfume,New,Cash,2,427.25,854.5
+972,2024-08-05,Free State,Groceries,Rice,New,Card,2,999.48,1998.96
+973,2024-05-02,Gauteng,Home,Iron,Returning,Cash,5,205.37,1026.85
+974,2024-11-06,Free State,Clothing,Jacket,Returning,Card,5,684.58,3422.9
+975,2024-12-23,Northern Cape,Clothing,Jeans,New,Mobile Payment,2,382.09,764.18
+976,2024-12-06,North West,Groceries,Bread,Returning,Mobile Payment,5,396.3,1981.5
+977,2024-09-21,Limpopo,Electronics,Phone Charger,Returning,Mobile Payment,2,526.74,1053.48
+978,2024-08-19,Limpopo,Home,Kettle,Returning,Mobile Payment,5,104.36,521.8
+979,2024-03-31,North West,Beauty,Shampoo,New,Card,1,537.43,537.43
+980,2024-08-07,North West,Beauty,Perfume,New,Cash,1,945.96,945.96
+981,2024-10-09,Western Cape,Beauty,Lotion,New,Cash,2,541.67,1083.34
+982,2024-06-01,Limpopo,Beauty,Perfume,New,EFT,1,134.57,134.57
+983,2024-03-22,Mpumalanga,Beauty,Lotion,Returning,Mobile Payment,5,1176.56,5882.8
+984,2024-07-27,Gauteng,Beauty,Perfume,New,Mobile Payment,4,967.86,3871.44
+985,2024-02-15,Mpumalanga,Beauty,Lotion,New,Mobile Payment,1,266.43,266.43
+986,2024-01-24,Eastern Cape,Home,Kettle,Returning,Mobile Payment,2,735.69,1471.38
+987,2024-07-25,Northern Cape,Home,Microwave,Returning,EFT,1,395.0,395.0
+988,2024-10-25,Free State,Groceries,Rice,New,Cash,2,478.0,956.0
+989,2024-10-23,Western Cape,Electronics,Smart Watch,New,EFT,2,1476.22,2952.44
+990,2024-02-18,Gauteng,Clothing,Jacket,New,Mobile Payment,3,403.26,1209.78
+991,2024-04-26,KwaZulu-Natal,Electronics,Headphones,Returning,Mobile Payment,4,827.59,3310.36
+992,2024-04-21,Limpopo,Beauty,Shampoo,Returning,Cash,4,298.69,1194.76
+993,2024-11-20,Eastern Cape,Groceries,Cooking Oil,Returning,Mobile Payment,2,779.63,1559.26
+994,2024-12-21,KwaZulu-Natal,Clothing,T-Shirt,Returning,Mobile Payment,4,1263.23,5052.92
+995,2024-06-17,Western Cape,Home,Kettle,Returning,Card,2,544.02,1088.04
+996,2024-03-25,Gauteng,Beauty,Perfume,Returning,Mobile Payment,5,77.73,388.65
+997,2024-08-31,Gauteng,Clothing,T-Shirt,New,Card,1,262.15,262.15
+998,2024-08-30,Northern Cape,Electronics,Smart Watch,New,EFT,3,1201.86,3605.58
+999,2024-09-26,Mpumalanga,Beauty,Lotion,Returning,EFT,4,953.34,3813.36
+1000,2024-03-14,Gauteng,Beauty,Shampoo,New,Cash,2,1405.54,2811.08
+1001,2024-04-09,Western Cape,Electronics,Headphones,New,Card,1,394.2,394.2
+1002,2024-05-22,Limpopo,Groceries,Bread,Returning,Card,5,260.59,1302.95
+1003,2024-08-29,Northern Cape,Beauty,Perfume,New,Mobile Payment,5,463.34,2316.7
+1004,2024-03-02,Limpopo,Clothing,Jeans,New,Card,3,619.69,1859.07
+1005,2024-11-08,Limpopo,Electronics,Phone Charger,New,Mobile Payment,4,1233.12,4932.48
+1006,2024-10-26,Western Cape,Groceries,Cooking Oil,Returning,Cash,4,1375.41,5501.64
+1007,2024-02-01,Gauteng,Beauty,Perfume,Returning,EFT,5,1447.24,7236.2
+1008,2024-09-09,Northern Cape,Electronics,Headphones,Returning,Card,3,321.56,964.68
+1009,2024-05-20,Mpumalanga,Clothing,Jeans,Returning,EFT,4,635.92,2543.68
+1010,2024-06-20,Western Cape,Groceries,Milk,Returning,Card,5,232.56,1162.8
+1011,2024-10-26,North West,Beauty,Lotion,New,EFT,5,679.91,3399.55
+1012,2024-09-11,Limpopo,Groceries,Milk,Returning,EFT,5,760.05,3800.25
+1013,2024-05-05,North West,Clothing,T-Shirt,New,Card,3,722.31,2166.93
+1014,2024-01-11,Mpumalanga,Clothing,Jeans,Returning,Card,1,1332.16,1332.16
+1015,2024-02-15,Limpopo,Electronics,Headphones,New,EFT,4,158.47,633.88
+1016,2024-09-20,Western Cape,Electronics,Smart Watch,New,EFT,5,493.62,2468.1
+1017,2024-10-01,Free State,Groceries,Rice,New,EFT,4,1081.71,4326.84
+1018,2024-01-26,Eastern Cape,Clothing,Jacket,Returning,Card,3,49.56,148.68
+1019,2024-08-16,Eastern Cape,Electronics,Headphones,New,EFT,4,1082.74,4330.96
+1020,2024-06-25,Free State,Electronics,Headphones,Returning,EFT,2,949.49,1898.98
+1021,2024-08-22,Western Cape,Beauty,Shampoo,Returning,Cash,3,683.17,2049.51
+1022,2024-08-28,Limpopo,Electronics,Headphones,Returning,Cash,1,730.67,730.67
+1023,2024-03-12,Gauteng,Electronics,Phone Charger,New,Card,2,1083.67,2167.34
+1024,2024-04-08,Limpopo,Beauty,Lotion,New,EFT,2,808.92,1617.84
+1025,2024-07-01,Northern Cape,Electronics,Headphones,New,Mobile Payment,5,698.88,3494.4
+1026,2024-07-04,Western Cape,Electronics,Headphones,New,Card,5,1401.7,7008.5
+1027,2024-11-21,Mpumalanga,Clothing,Jacket,Returning,Mobile Payment,2,1477.17,2954.34
+1028,2024-11-24,KwaZulu-Natal,Groceries,Rice,Returning,Cash,3,656.17,1968.51
+1029,2024-05-08,Western Cape,Clothing,Jacket,Returning,Cash,1,1081.99,1081.99
+1030,2024-01-24,Eastern Cape,Groceries,Milk,Returning,Mobile Payment,5,387.47,1937.35
+1031,2024-05-22,Northern Cape,Clothing,Jacket,New,Mobile Payment,2,333.88,667.76
+1032,2024-08-02,Western Cape,Electronics,Headphones,Returning,EFT,3,520.99,1562.97
+1033,2024-11-29,Northern Cape,Clothing,Jeans,Returning,Cash,5,256.31,1281.55
+1034,2024-10-20,Mpumalanga,Beauty,Perfume,New,Cash,2,1350.56,2701.12
+1035,2024-07-16,Mpumalanga,Groceries,Bread,Returning,Mobile Payment,3,1421.79,4265.37
+1036,2024-06-16,KwaZulu-Natal,Home,Kettle,New,Mobile Payment,1,1363.49,1363.49
+1037,2024-09-23,Free State,Home,Iron,New,EFT,5,447.94,2239.7
+1038,2024-06-22,Free State,Groceries,Milk,New,Mobile Payment,1,424.84,424.84
+1039,2024-05-09,North West,Home,Microwave,New,EFT,3,231.73,695.19
+1040,2024-06-28,Free State,Clothing,Jeans,New,Mobile Payment,5,1237.53,6187.65
+1041,2024-04-30,Limpopo,Beauty,Lotion,New,Cash,4,1032.96,4131.84
+1042,2024-01-13,Eastern Cape,Clothing,T-Shirt,Returning,Mobile Payment,1,275.13,275.13
+1043,2024-04-03,Free State,Groceries,Bread,Returning,Card,3,971.73,2915.19
+1044,2024-03-09,North West,Beauty,Shampoo,Returning,Card,3,941.01,2823.03
+1045,2024-01-16,Western Cape,Groceries,Cooking Oil,Returning,Mobile Payment,2,1010.51,2021.02
+1046,2024-09-12,North West,Beauty,Shampoo,Returning,EFT,2,1287.11,2574.22
+1047,2024-06-26,Western Cape,Home,Kettle,New,Mobile Payment,2,43.56,87.12
+1048,2024-06-17,North West,Groceries,Rice,Returning,Cash,5,368.81,1844.05
+1049,2024-02-29,Mpumalanga,Electronics,Smart Watch,Returning,EFT,4,898.49,3593.96
+1050,2024-09-26,Gauteng,Electronics,Phone Charger,New,Cash,5,1143.12,5715.6
+1051,2024-07-04,KwaZulu-Natal,Beauty,Shampoo,Returning,EFT,1,555.0,555.0
+1052,2024-08-25,Gauteng,Beauty,Perfume,New,Mobile Payment,5,1212.09,6060.45
+1053,2024-01-17,Eastern Cape,Electronics,Headphones,New,Card,1,1403.12,1403.12
+1054,2024-07-14,North West,Clothing,T-Shirt,New,EFT,2,514.39,1028.78
+1055,2024-03-20,Mpumalanga,Clothing,Jeans,Returning,EFT,5,701.8,3509.0
+1056,2024-01-21,Western Cape,Electronics,Phone Charger,New,Mobile Payment,4,461.77,1847.08
+1057,2024-10-09,KwaZulu-Natal,Groceries,Cooking Oil,New,Card,1,756.32,756.32
+1058,2024-09-15,KwaZulu-Natal,Groceries,Cooking Oil,Returning,EFT,5,51.3,256.5
+1059,2024-10-27,Western Cape,Groceries,Rice,New,EFT,1,1419.05,1419.05
+1060,2024-06-30,Mpumalanga,Beauty,Lotion,Returning,EFT,1,313.33,313.33
+1061,2024-04-15,Gauteng,Electronics,Smart Watch,Returning,Mobile Payment,3,1360.75,4082.25
+1062,2024-12-12,Northern Cape,Home,Iron,New,Mobile Payment,5,883.25,4416.25
+1063,2024-05-16,Eastern Cape,Home,Iron,Returning,Mobile Payment,2,1373.75,2747.5
+1064,2024-02-22,Eastern Cape,Home,Iron,New,EFT,2,801.54,1603.08
+1065,2024-04-09,Mpumalanga,Clothing,Jacket,New,Mobile Payment,1,1184.35,1184.35
+1066,2024-04-23,Western Cape,Clothing,T-Shirt,Returning,EFT,5,1139.34,5696.7
+1067,2024-02-28,Eastern Cape,Home,Iron,New,Mobile Payment,2,185.78,371.56
+1068,2024-09-30,Mpumalanga,Electronics,Smart Watch,Returning,Card,5,194.65,973.25
+1069,2024-07-09,Eastern Cape,Electronics,Smart Watch,New,EFT,1,1420.36,1420.36
+1070,2024-06-19,Eastern Cape,Home,Microwave,Returning,Card,1,1120.16,1120.16
+1071,2024-11-29,North West,Beauty,Lotion,New,Cash,5,1335.34,6676.7
+1072,2024-05-25,Gauteng,Clothing,Jacket,Returning,EFT,5,981.32,4906.6
+1073,2024-08-13,Limpopo,Groceries,Cooking Oil,Returning,Card,1,1257.93,1257.93
+1074,2024-12-02,Mpumalanga,Clothing,T-Shirt,Returning,Mobile Payment,2,491.85,983.7
+1075,2024-11-21,Eastern Cape,Home,Iron,Returning,Card,1,43.23,43.23
+1076,2024-12-23,Western Cape,Clothing,Jeans,Returning,EFT,5,169.39,846.95
+1077,2024-11-27,Northern Cape,Clothing,Jeans,New,Mobile Payment,1,1382.53,1382.53
+1078,2024-08-21,Eastern Cape,Home,Microwave,Returning,Cash,5,1381.66,6908.3
+1079,2024-08-07,North West,Electronics,Smart Watch,Returning,Card,2,487.02,974.04
+1080,2024-09-17,Gauteng,Beauty,Shampoo,New,Card,4,539.05,2156.2
+1081,2024-05-06,North West,Electronics,Headphones,Returning,EFT,5,1201.71,6008.55
+1082,2024-05-11,Western Cape,Home,Microwave,Returning,Mobile Payment,5,199.63,998.15
+1083,2024-12-29,KwaZulu-Natal,Groceries,Rice,New,Mobile Payment,4,25.86,103.44
+1084,2024-07-07,Mpumalanga,Home,Microwave,Returning,Card,3,598.23,1794.69
+1085,2024-04-24,Western Cape,Electronics,Smart Watch,New,Mobile Payment,2,760.43,1520.86
+1086,2024-04-17,Northern Cape,Beauty,Lotion,New,EFT,1,1085.76,1085.76
+1087,2024-09-11,Free State,Clothing,Jeans,New,EFT,4,833.82,3335.28
+1088,2024-01-22,Eastern Cape,Groceries,Cooking Oil,New,Cash,2,720.03,1440.06
+1089,2024-09-18,North West,Electronics,Smart Watch,Returning,Cash,2,95.26,190.52
+1090,2024-09-14,Gauteng,Clothing,Jeans,Returning,Card,2,1393.99,2787.98
+1091,2024-12-18,Limpopo,Home,Microwave,Returning,EFT,5,940.47,4702.35
+1092,2024-10-15,North West,Beauty,Perfume,Returning,Cash,3,112.42,337.26
+1093,2024-05-16,North West,Groceries,Milk,New,EFT,1,146.01,146.01
+1094,2024-08-29,Northern Cape,Electronics,Smart Watch,New,Mobile Payment,5,1489.09,7445.45
+1095,2024-10-21,Eastern Cape,Electronics,Phone Charger,New,Card,3,1060.74,3182.22
+1096,2024-12-17,Gauteng,Beauty,Perfume,New,EFT,4,563.66,2254.64
+1097,2024-04-22,Free State,Home,Iron,Returning,Cash,5,430.73,2153.65
+1098,2024-03-05,KwaZulu-Natal,Beauty,Lotion,New,EFT,3,774.07,2322.21
+1099,2024-01-12,Northern Cape,Electronics,Headphones,New,Cash,1,486.82,486.82
+1100,2024-08-05,Mpumalanga,Groceries,Rice,Returning,Mobile Payment,4,772.88,3091.52
+1101,2024-09-24,North West,Groceries,Cooking Oil,New,Cash,4,1352.46,5409.84
+1102,2024-11-03,Mpumalanga,Home,Microwave,Returning,Cash,3,1212.53,3637.59
+1103,2024-04-12,Mpumalanga,Clothing,T-Shirt,Returning,EFT,2,1070.41,2140.82
+1104,2024-08-20,Western Cape,Electronics,Phone Charger,New,Cash,2,820.02,1640.04
+1105,2024-05-20,Western Cape,Home,Kettle,Returning,Mobile Payment,4,375.56,1502.24
+1106,2024-05-19,Free State,Clothing,Jacket,New,EFT,1,1248.7,1248.7
+1107,2024-04-18,Free State,Clothing,T-Shirt,Returning,Card,5,1082.79,5413.95
+1108,2024-10-25,Northern Cape,Clothing,Jeans,New,EFT,5,277.03,1385.15
+1109,2024-04-28,Western Cape,Clothing,Jeans,Returning,Card,5,413.84,2069.2
+1110,2024-12-02,North West,Groceries,Cooking Oil,New,Mobile Payment,3,957.96,2873.88
+1111,2024-09-10,Western Cape,Electronics,Headphones,Returning,Mobile Payment,1,832.19,832.19
+1112,2024-06-14,Limpopo,Groceries,Cooking Oil,New,Cash,3,793.61,2380.83
+1113,2024-11-27,Mpumalanga,Groceries,Cooking Oil,New,EFT,2,328.25,656.5
+1114,2024-04-05,Northern Cape,Groceries,Rice,New,Card,2,1331.16,2662.32
+1115,2024-08-17,North West,Electronics,Smart Watch,Returning,Cash,4,106.19,424.76
+1116,2024-12-11,KwaZulu-Natal,Beauty,Lotion,Returning,EFT,1,417.07,417.07
+1117,2024-04-01,Limpopo,Clothing,Jeans,New,Mobile Payment,1,782.48,782.48
+1118,2024-08-08,Limpopo,Beauty,Perfume,Returning,Card,1,1432.55,1432.55
+1119,2024-11-26,Limpopo,Clothing,Jacket,Returning,Cash,5,818.01,4090.05
+1120,2024-04-22,Limpopo,Clothing,Jeans,Returning,EFT,4,1264.82,5059.28
+1121,2024-07-30,Western Cape,Groceries,Bread,New,Mobile Payment,3,360.98,1082.94
+1122,2024-12-20,KwaZulu-Natal,Home,Iron,Returning,Card,1,1423.33,1423.33
+1123,2024-06-25,KwaZulu-Natal,Beauty,Perfume,New,EFT,3,406.87,1220.61
+1124,2024-06-23,Western Cape,Electronics,Smart Watch,Returning,Cash,3,829.65,2488.95
+1125,2024-10-01,Eastern Cape,Groceries,Cooking Oil,Returning,Cash,4,207.77,831.08
+1126,2024-06-19,Mpumalanga,Clothing,Jacket,Returning,Cash,2,748.75,1497.5
+1127,2024-11-06,Gauteng,Groceries,Cooking Oil,New,Mobile Payment,5,462.41,2312.05
+1128,2024-01-25,Mpumalanga,Beauty,Shampoo,New,Card,4,570.32,2281.28
+1129,2024-10-06,Northern Cape,Groceries,Bread,Returning,EFT,1,1475.41,1475.41
+1130,2024-08-16,Mpumalanga,Home,Kettle,Returning,Mobile Payment,5,1284.68,6423.4
+1131,2024-06-07,Western Cape,Groceries,Cooking Oil,New,EFT,2,1202.64,2405.28
+1132,2024-11-26,Western Cape,Groceries,Rice,New,Mobile Payment,2,353.98,707.96
+1133,2024-05-03,Eastern Cape,Beauty,Shampoo,New,Card,1,1100.06,1100.06
+1134,2024-07-21,North West,Beauty,Shampoo,Returning,Cash,2,364.25,728.5
+1135,2024-11-21,Mpumalanga,Electronics,Smart Watch,Returning,EFT,1,390.53,390.53
+1136,2024-03-01,Mpumalanga,Home,Iron,New,Cash,1,847.25,847.25
+1137,2024-01-18,Gauteng,Groceries,Rice,New,Cash,1,764.12,764.12
+1138,2024-07-24,Gauteng,Beauty,Shampoo,New,Card,4,402.88,1611.52
+1139,2024-03-26,Northern Cape,Beauty,Shampoo,Returning,EFT,2,375.42,750.84
+1140,2024-04-27,Free State,Beauty,Lotion,New,Cash,4,192.7,770.8
+1141,2024-02-25,KwaZulu-Natal,Electronics,Smart Watch,New,Cash,4,689.48,2757.92
+1142,2024-10-01,Gauteng,Home,Kettle,Returning,EFT,4,1389.86,5559.44
+1143,2024-04-22,Gauteng,Home,Iron,New,Card,2,667.72,1335.44
+1144,2024-05-31,Eastern Cape,Beauty,Perfume,New,EFT,1,691.86,691.86
+1145,2024-01-12,Gauteng,Groceries,Milk,Returning,Cash,3,423.03,1269.09
+1146,2024-07-03,Northern Cape,Beauty,Shampoo,Returning,Card,4,334.17,1336.68
+1147,2024-08-03,Mpumalanga,Electronics,Smart Watch,New,EFT,4,814.55,3258.2
+1148,2024-11-16,Limpopo,Electronics,Headphones,Returning,Card,5,104.5,522.5
+1149,2024-12-11,North West,Groceries,Cooking Oil,New,Mobile Payment,1,569.48,569.48
+1150,2024-11-11,KwaZulu-Natal,Beauty,Lotion,Returning,Mobile Payment,3,820.42,2461.26
+1151,2024-05-18,KwaZulu-Natal,Clothing,Jeans,Returning,EFT,2,1055.3,2110.6
+1152,2024-07-02,North West,Groceries,Bread,New,Mobile Payment,2,1422.84,2845.68
+1153,2024-08-17,Eastern Cape,Beauty,Shampoo,New,EFT,2,685.71,1371.42
+1154,2024-04-25,Limpopo,Clothing,Jacket,New,Cash,3,627.69,1883.07
+1155,2024-04-14,North West,Electronics,Phone Charger,Returning,Mobile Payment,2,668.27,1336.54
+1156,2024-04-03,Free State,Home,Iron,New,Cash,3,391.76,1175.28
+1157,2024-05-27,Mpumalanga,Electronics,Headphones,New,Mobile Payment,3,533.14,1599.42
+1158,2024-03-22,Gauteng,Home,Microwave,Returning,Card,4,1121.77,4487.08
+1159,2024-01-24,Mpumalanga,Groceries,Cooking Oil,New,Mobile Payment,4,384.6,1538.4
+1160,2024-08-25,Gauteng,Beauty,Lotion,New,EFT,2,84.28,168.56
+1161,2024-12-02,Limpopo,Clothing,Jacket,New,Card,3,785.17,2355.51
+1162,2024-05-17,Eastern Cape,Home,Kettle,New,Mobile Payment,3,327.53,982.59
+1163,2024-06-06,North West,Beauty,Lotion,New,EFT,2,456.16,912.32
+1164,2024-04-19,Gauteng,Home,Microwave,New,Cash,1,621.48,621.48
+1165,2024-06-16,KwaZulu-Natal,Home,Kettle,New,Cash,3,998.97,2996.91
+1166,2024-05-13,Eastern Cape,Electronics,Phone Charger,Returning,Card,3,38.62,115.86
+1167,2024-07-29,Limpopo,Beauty,Shampoo,New,Cash,3,131.78,395.34
+1168,2024-11-23,Gauteng,Groceries,Cooking Oil,Returning,Card,2,1184.14,2368.28
+1169,2024-05-11,Free State,Home,Iron,Returning,Cash,3,1401.51,4204.53
+1170,2024-12-09,Western Cape,Groceries,Bread,Returning,Cash,2,1335.03,2670.06
+1171,2024-05-04,Gauteng,Electronics,Smart Watch,Returning,Cash,1,863.88,863.88
+1172,2024-04-14,Limpopo,Groceries,Cooking Oil,Returning,Cash,3,623.68,1871.04
+1173,2024-06-10,Northern Cape,Home,Kettle,Returning,Cash,3,1258.56,3775.68
+1174,2024-10-19,Western Cape,Groceries,Bread,New,Card,3,910.7,2732.1
+1175,2024-11-30,North West,Beauty,Lotion,Returning,Mobile Payment,4,363.79,1455.16
+1176,2024-04-13,Limpopo,Beauty,Lotion,Returning,Cash,4,656.15,2624.6
+1177,2024-06-15,Western Cape,Beauty,Perfume,New,EFT,2,890.45,1780.9
+1178,2024-05-17,Mpumalanga,Beauty,Shampoo,New,Card,4,426.13,1704.52
+1179,2024-11-12,Limpopo,Home,Iron,Returning,Cash,1,834.81,834.81
+1180,2024-08-28,Mpumalanga,Beauty,Shampoo,Returning,Cash,5,711.73,3558.65
+1181,2024-05-18,Eastern Cape,Clothing,T-Shirt,New,EFT,1,166.05,166.05
+1182,2024-07-23,Western Cape,Groceries,Rice,New,Card,1,650.95,650.95
+1183,2024-05-09,Free State,Groceries,Rice,New,Mobile Payment,4,1215.15,4860.6
+1184,2024-09-21,Limpopo,Home,Iron,New,Mobile Payment,2,1292.06,2584.12
+1185,2024-10-04,Limpopo,Electronics,Phone Charger,Returning,Card,3,1159.94,3479.82
+1186,2024-03-12,Western Cape,Electronics,Phone Charger,New,EFT,4,1444.05,5776.2
+1187,2024-06-14,Free State,Beauty,Lotion,New,Mobile Payment,5,251.66,1258.3
+1188,2024-11-25,Western Cape,Home,Kettle,Returning,Card,2,267.09,534.18
+1189,2024-09-03,KwaZulu-Natal,Groceries,Milk,New,Cash,3,1259.43,3778.29
+1190,2024-06-27,Gauteng,Home,Iron,Returning,EFT,1,1040.94,1040.94
+1191,2024-05-07,Mpumalanga,Beauty,Perfume,Returning,Mobile Payment,1,1366.19,1366.19
+1192,2024-01-23,Northern Cape,Groceries,Rice,Returning,Card,2,366.21,732.42
+1193,2024-10-13,Free State,Groceries,Cooking Oil,Returning,Card,5,764.55,3822.75
+1194,2024-08-17,Limpopo,Electronics,Smart Watch,Returning,Card,1,727.86,727.86
+1195,2024-11-25,Mpumalanga,Home,Kettle,Returning,EFT,1,34.47,34.47
+1196,2024-02-14,Gauteng,Electronics,Smart Watch,Returning,EFT,3,1406.26,4218.78
+1197,2024-10-11,Western Cape,Electronics,Smart Watch,Returning,EFT,5,775.81,3879.05
+1198,2024-07-04,Western Cape,Electronics,Headphones,Returning,Cash,2,190.8,381.6
+1199,2024-01-03,Eastern Cape,Beauty,Perfume,Returning,EFT,4,950.73,3802.92
+1200,2024-01-09,Free State,Groceries,Cooking Oil,Returning,Cash,1,1205.72,1205.72
+1201,2024-07-21,KwaZulu-Natal,Clothing,Jacket,Returning,Mobile Payment,5,451.96,2259.8
+1202,2024-12-12,Free State,Clothing,Jeans,Returning,Mobile Payment,4,1301.71,5206.84
+1203,2024-01-04,Northern Cape,Home,Microwave,New,Mobile Payment,5,991.14,4955.7
+1204,2024-11-09,Eastern Cape,Electronics,Phone Charger,Returning,EFT,2,158.41,316.82
+1205,2024-09-01,Western Cape,Groceries,Bread,Returning,Card,5,489.54,2447.7
+1206,2024-03-24,Gauteng,Beauty,Lotion,New,Mobile Payment,1,1303.39,1303.39
+1207,2024-05-23,Western Cape,Beauty,Lotion,New,Mobile Payment,3,1460.58,4381.74
+1208,2024-01-16,Free State,Clothing,Jacket,New,EFT,5,1232.71,6163.55
+1209,2024-10-12,Western Cape,Clothing,T-Shirt,New,Mobile Payment,3,492.19,1476.57
+1210,2024-03-04,Limpopo,Groceries,Bread,Returning,Mobile Payment,4,131.93,527.72
+1211,2024-08-10,Northern Cape,Groceries,Milk,Returning,Card,4,665.35,2661.4
+1212,2024-02-02,North West,Groceries,Rice,New,Card,2,772.86,1545.72
+1213,2024-02-24,Northern Cape,Groceries,Milk,Returning,Mobile Payment,1,468.75,468.75
+1214,2024-04-11,Limpopo,Beauty,Shampoo,Returning,Mobile Payment,1,375.12,375.12
+1215,2024-01-10,Gauteng,Electronics,Smart Watch,New,EFT,1,694.33,694.33
+1216,2024-04-22,Free State,Groceries,Rice,New,EFT,1,296.42,296.42
+1217,2024-04-20,Free State,Groceries,Cooking Oil,New,Mobile Payment,5,532.24,2661.2
+1218,2024-02-10,Mpumalanga,Home,Kettle,Returning,Card,3,42.94,128.82
+1219,2024-11-02,KwaZulu-Natal,Clothing,T-Shirt,New,Card,1,1355.76,1355.76
+1220,2024-05-20,North West,Home,Kettle,New,Cash,2,1440.2,2880.4
+1221,2024-08-30,Northern Cape,Clothing,Jeans,Returning,Mobile Payment,4,587.55,2350.2
+1222,2024-05-19,Western Cape,Home,Iron,Returning,Mobile Payment,1,692.24,692.24
+1223,2024-10-07,Northern Cape,Beauty,Perfume,Returning,Card,4,413.71,1654.84
+1224,2024-01-14,Gauteng,Groceries,Rice,New,Cash,4,1181.81,4727.24
+1225,2024-05-26,Mpumalanga,Clothing,T-Shirt,New,Card,5,467.97,2339.85
+1226,2024-09-13,Northern Cape,Electronics,Headphones,Returning,EFT,2,385.51,771.02
+1227,2024-08-08,North West,Electronics,Smart Watch,New,EFT,4,666.14,2664.56
+1228,2024-12-20,Mpumalanga,Clothing,Jeans,New,Mobile Payment,2,249.17,498.34
+1229,2024-12-27,Gauteng,Home,Microwave,Returning,Mobile Payment,4,1459.98,5839.92
+1230,2024-08-02,KwaZulu-Natal,Groceries,Bread,New,Cash,2,1112.68,2225.36
+1231,2024-08-24,North West,Home,Iron,New,EFT,4,68.76,275.04
+1232,2024-02-21,Gauteng,Electronics,Headphones,New,EFT,3,154.58,463.74
+1233,2024-07-28,Limpopo,Home,Iron,New,Cash,5,1256.65,6283.25
+1234,2024-02-23,KwaZulu-Natal,Home,Kettle,New,EFT,4,1494.32,5977.28
+1235,2024-09-09,Mpumalanga,Electronics,Headphones,Returning,Card,2,801.51,1603.02
+1236,2024-07-31,KwaZulu-Natal,Beauty,Perfume,New,Mobile Payment,3,623.9,1871.7
+1237,2024-04-01,Mpumalanga,Home,Microwave,New,Cash,1,35.98,35.98
+1238,2024-08-09,Gauteng,Beauty,Lotion,Returning,Card,3,626.84,1880.52
+1239,2024-11-22,Western Cape,Groceries,Bread,Returning,Mobile Payment,2,1418.78,2837.56
+1240,2024-10-13,Mpumalanga,Electronics,Smart Watch,New,Cash,1,312.22,312.22
+1241,2024-11-15,KwaZulu-Natal,Electronics,Smart Watch,Returning,Mobile Payment,3,216.21,648.63
+1242,2024-10-14,KwaZulu-Natal,Groceries,Rice,New,Cash,5,134.17,670.85
+1243,2024-07-10,Eastern Cape,Home,Microwave,New,Card,5,1337.53,6687.65
+1244,2024-01-26,Western Cape,Home,Kettle,Returning,Cash,5,1110.85,5554.25
+1245,2024-07-05,Limpopo,Clothing,T-Shirt,Returning,Mobile Payment,3,943.8,2831.4
+1246,2024-02-20,Eastern Cape,Electronics,Headphones,New,EFT,5,1230.42,6152.1
+1247,2024-08-25,North West,Electronics,Smart Watch,Returning,Mobile Payment,2,1443.59,2887.18
+1248,2024-02-13,KwaZulu-Natal,Home,Iron,Returning,Cash,5,365.76,1828.8
+1249,2024-07-16,North West,Clothing,Jacket,New,EFT,2,582.29,1164.58
+1250,2024-12-24,Eastern Cape,Groceries,Milk,New,Mobile Payment,1,281.09,281.09
+1251,2024-02-07,Western Cape,Groceries,Bread,New,Mobile Payment,3,708.95,2126.85
+1252,2024-06-25,Northern Cape,Electronics,Smart Watch,New,Card,2,142.45,284.9
+1253,2024-09-06,Mpumalanga,Beauty,Perfume,Returning,Card,3,587.08,1761.24
+1254,2024-02-07,Northern Cape,Groceries,Rice,Returning,EFT,5,773.49,3867.45
+1255,2024-11-22,Northern Cape,Clothing,T-Shirt,New,Card,1,169.72,169.72
+1256,2024-12-07,North West,Beauty,Perfume,New,Cash,4,467.37,1869.48
+1257,2024-12-14,Mpumalanga,Electronics,Headphones,Returning,Card,2,851.14,1702.28
+1258,2024-09-26,Northern Cape,Groceries,Rice,New,Card,4,720.68,2882.72
+1259,2024-08-09,Mpumalanga,Home,Iron,New,EFT,3,1241.68,3725.04
+1260,2024-09-13,Western Cape,Electronics,Headphones,Returning,Card,4,1283.03,5132.12
+1261,2024-06-12,North West,Clothing,Jeans,New,Card,3,837.46,2512.38
+1262,2024-03-10,Gauteng,Beauty,Shampoo,Returning,Card,1,399.31,399.31
+1263,2024-05-07,Free State,Beauty,Lotion,Returning,Mobile Payment,5,303.4,1517.0
+1264,2024-12-02,Free State,Electronics,Smart Watch,Returning,Cash,2,656.66,1313.32
+1265,2024-02-28,Gauteng,Groceries,Bread,New,EFT,1,864.06,864.06
+1266,2024-11-23,Gauteng,Groceries,Milk,New,Mobile Payment,1,826.42,826.42
+1267,2024-03-29,Gauteng,Groceries,Cooking Oil,New,Cash,5,1443.56,7217.8
+1268,2024-11-11,Western Cape,Electronics,Phone Charger,Returning,Cash,3,254.61,763.83
+1269,2024-02-18,KwaZulu-Natal,Groceries,Cooking Oil,Returning,EFT,4,572.84,2291.36
+1270,2024-06-26,Free State,Clothing,T-Shirt,Returning,Card,2,1188.15,2376.3
+1271,2024-08-17,North West,Groceries,Cooking Oil,New,Mobile Payment,3,556.62,1669.86
+1272,2024-03-29,Eastern Cape,Electronics,Headphones,New,Card,1,384.08,384.08
+1273,2024-01-12,Northern Cape,Electronics,Headphones,New,Cash,2,369.78,739.56
+1274,2024-03-20,Mpumalanga,Clothing,T-Shirt,Returning,EFT,5,541.42,2707.1
+1275,2024-04-21,KwaZulu-Natal,Home,Microwave,Returning,Card,1,809.75,809.75
+1276,2024-12-26,Limpopo,Groceries,Bread,Returning,Cash,3,416.31,1248.93
+1277,2024-04-22,Eastern Cape,Clothing,Jacket,Returning,Mobile Payment,3,507.4,1522.2
+1278,2024-05-01,Gauteng,Beauty,Lotion,New,Card,1,1145.49,1145.49
+1279,2024-12-21,Free State,Electronics,Smart Watch,Returning,Cash,4,691.69,2766.76
+1280,2024-07-07,Western Cape,Beauty,Shampoo,Returning,Mobile Payment,1,877.11,877.11
+1281,2024-12-02,Mpumalanga,Clothing,Jeans,Returning,EFT,2,461.54,923.08
+1282,2024-02-23,North West,Home,Kettle,Returning,Card,3,1031.48,3094.44
+1283,2024-07-21,Gauteng,Beauty,Perfume,Returning,Mobile Payment,2,1037.41,2074.82
+1284,2024-02-16,Free State,Clothing,T-Shirt,New,Mobile Payment,5,291.09,1455.45
+1285,2024-04-16,Gauteng,Clothing,T-Shirt,New,Card,3,47.2,141.6
+1286,2024-09-10,Free State,Groceries,Rice,New,Mobile Payment,4,867.16,3468.64
+1287,2024-02-26,Gauteng,Clothing,Jacket,New,Card,2,512.45,1024.9
+1288,2024-01-21,Eastern Cape,Home,Microwave,New,Mobile Payment,5,396.14,1980.7
+1289,2024-04-22,North West,Electronics,Smart Watch,New,Cash,4,462.32,1849.28
+1290,2024-02-20,Free State,Home,Iron,Returning,EFT,4,635.35,2541.4
+1291,2024-07-02,Mpumalanga,Groceries,Cooking Oil,Returning,Cash,3,101.56,304.68
+1292,2024-01-01,Eastern Cape,Clothing,T-Shirt,New,Cash,2,331.35,662.7
+1293,2024-07-07,KwaZulu-Natal,Clothing,T-Shirt,New,Card,1,433.81,433.81
+1294,2024-12-06,Northern Cape,Electronics,Smart Watch,New,Mobile Payment,1,522.7,522.7
+1295,2024-10-08,Northern Cape,Beauty,Shampoo,Returning,EFT,3,308.76,926.28
+1296,2024-11-11,Eastern Cape,Clothing,T-Shirt,New,Mobile Payment,5,1498.38,7491.9
+1297,2024-10-04,Gauteng,Beauty,Lotion,New,EFT,3,1494.52,4483.56
+1298,2024-02-24,Eastern Cape,Home,Kettle,Returning,EFT,5,1305.34,6526.7
+1299,2024-06-07,Northern Cape,Groceries,Bread,Returning,Card,5,517.52,2587.6
+1300,2024-03-14,Northern Cape,Groceries,Bread,New,Cash,4,1007.77,4031.08
+1301,2024-03-27,Gauteng,Clothing,Jacket,Returning,Cash,2,100.23,200.46
+1302,2024-07-09,Limpopo,Beauty,Perfume,New,Cash,5,1215.07,6075.35
+1303,2024-04-22,North West,Home,Iron,New,Mobile Payment,5,127.41,637.05
+1304,2024-07-15,Limpopo,Home,Iron,Returning,Card,5,205.13,1025.65
+1305,2024-06-09,Gauteng,Electronics,Headphones,Returning,Mobile Payment,4,395.35,1581.4
+1306,2024-03-02,KwaZulu-Natal,Beauty,Shampoo,Returning,Mobile Payment,2,922.01,1844.02
+1307,2024-04-24,Northern Cape,Groceries,Milk,Returning,EFT,1,103.45,103.45
+1308,2024-08-29,North West,Electronics,Phone Charger,New,Cash,5,926.77,4633.85
+1309,2024-10-29,Limpopo,Electronics,Smart Watch,New,Cash,5,196.52,982.6
+1310,2024-01-09,Northern Cape,Beauty,Perfume,New,Cash,4,1243.58,4974.32
+1311,2024-08-08,Limpopo,Electronics,Smart Watch,New,Mobile Payment,4,1484.04,5936.16
+1312,2024-03-27,Eastern Cape,Groceries,Milk,Returning,Card,4,1247.87,4991.48
+1313,2024-06-21,KwaZulu-Natal,Home,Kettle,Returning,Mobile Payment,5,685.41,3427.05
+1314,2024-03-11,Gauteng,Electronics,Phone Charger,New,EFT,3,953.66,2860.98
+1315,2024-12-07,Western Cape,Beauty,Perfume,New,Mobile Payment,1,1234.55,1234.55
+1316,2024-07-10,KwaZulu-Natal,Home,Iron,New,Mobile Payment,1,1124.54,1124.54
+1317,2024-10-01,Free State,Beauty,Perfume,Returning,Cash,3,1064.14,3192.42
+1318,2024-10-27,North West,Groceries,Bread,Returning,Card,3,811.14,2433.42
+1319,2024-01-06,Northern Cape,Beauty,Perfume,New,Cash,1,129.78,129.78
+1320,2024-12-04,Limpopo,Clothing,Jeans,New,Mobile Payment,1,193.98,193.98
+1321,2024-07-01,North West,Clothing,Jeans,New,Card,1,1107.58,1107.58
+1322,2024-08-18,Limpopo,Electronics,Headphones,New,EFT,1,1373.37,1373.37
+1323,2024-05-29,KwaZulu-Natal,Clothing,T-Shirt,New,Mobile Payment,1,1264.09,1264.09
+1324,2024-12-10,North West,Home,Kettle,Returning,Cash,5,1457.41,7287.05
+1325,2024-08-01,Western Cape,Home,Kettle,Returning,Mobile Payment,3,1042.12,3126.36
+1326,2024-02-08,KwaZulu-Natal,Groceries,Bread,New,Cash,2,1353.74,2707.48
+1327,2024-11-18,Mpumalanga,Electronics,Phone Charger,New,Card,3,1260.05,3780.15
+1328,2024-02-23,Northern Cape,Electronics,Headphones,New,Mobile Payment,5,103.37,516.85
+1329,2024-09-12,Gauteng,Groceries,Milk,New,Card,5,263.78,1318.9
+1330,2024-06-26,Free State,Home,Kettle,New,Card,1,1034.45,1034.45
+1331,2024-09-24,KwaZulu-Natal,Clothing,T-Shirt,New,Cash,3,1215.75,3647.25
+1332,2024-08-03,Free State,Beauty,Shampoo,New,Cash,3,1277.91,3833.73
+1333,2024-07-31,Western Cape,Groceries,Milk,Returning,Mobile Payment,1,66.54,66.54
+1334,2024-02-16,North West,Beauty,Perfume,New,Card,5,1159.26,5796.3
+1335,2024-06-05,Free State,Home,Iron,New,Cash,2,1128.99,2257.98
+1336,2024-08-19,Eastern Cape,Clothing,Jacket,New,Card,4,930.06,3720.24
+1337,2024-10-22,Gauteng,Electronics,Smart Watch,New,Card,3,481.32,1443.96
+1338,2024-10-25,Gauteng,Home,Kettle,New,EFT,3,1326.06,3978.18
+1339,2024-03-24,Gauteng,Clothing,T-Shirt,New,Cash,2,1348.39,2696.78
+1340,2024-12-04,Limpopo,Clothing,Jacket,Returning,Card,4,1197.76,4791.04
+1341,2024-07-24,Mpumalanga,Clothing,Jacket,Returning,Card,1,69.47,69.47
+1342,2024-03-10,Western Cape,Electronics,Smart Watch,New,Cash,5,233.98,1169.9
+1343,2024-09-13,North West,Beauty,Perfume,Returning,Card,2,622.93,1245.86
+1344,2024-04-16,North West,Beauty,Lotion,Returning,Mobile Payment,3,1067.15,3201.45
+1345,2024-04-04,Limpopo,Clothing,T-Shirt,New,Cash,2,525.52,1051.04
+1346,2024-09-26,North West,Electronics,Smart Watch,Returning,Mobile Payment,3,1004.6,3013.8
+1347,2024-10-07,KwaZulu-Natal,Beauty,Lotion,Returning,Cash,3,705.82,2117.46
+1348,2024-03-16,Northern Cape,Electronics,Phone Charger,Returning,Cash,1,210.36,210.36
+1349,2024-06-22,Limpopo,Home,Iron,New,Cash,1,856.25,856.25
+1350,2024-01-15,North West,Electronics,Phone Charger,New,EFT,2,310.73,621.46
+1351,2024-10-14,Limpopo,Clothing,T-Shirt,New,EFT,1,1474.22,1474.22
+1352,2024-10-11,Free State,Groceries,Bread,Returning,EFT,5,1289.72,6448.6
+1353,2024-06-11,Western Cape,Electronics,Smart Watch,Returning,Mobile Payment,5,1208.89,6044.45
+1354,2024-02-09,Mpumalanga,Home,Kettle,Returning,EFT,4,39.26,157.04
+1355,2024-09-13,Eastern Cape,Clothing,Jeans,New,Mobile Payment,5,56.1,280.5
+1356,2024-11-03,Northern Cape,Groceries,Cooking Oil,New,Mobile Payment,2,985.35,1970.7
+1357,2024-01-24,Free State,Groceries,Cooking Oil,New,Card,1,75.97,75.97
+1358,2024-06-07,Western Cape,Beauty,Perfume,Returning,EFT,4,584.22,2336.88
+1359,2024-11-11,Western Cape,Clothing,Jeans,New,Cash,1,634.52,634.52
+1360,2024-08-22,Western Cape,Beauty,Perfume,New,Card,4,944.07,3776.28
+1361,2024-03-16,Eastern Cape,Electronics,Phone Charger,New,Cash,5,1285.02,6425.1
+1362,2024-06-08,KwaZulu-Natal,Home,Kettle,Returning,EFT,4,160.68,642.72
+1363,2024-01-01,Eastern Cape,Home,Iron,New,Card,5,254.26,1271.3
+1364,2024-09-06,Eastern Cape,Groceries,Milk,New,Card,1,861.11,861.11
+1365,2024-06-12,Northern Cape,Beauty,Perfume,Returning,Card,2,195.32,390.64
+1366,2024-08-22,Free State,Groceries,Rice,Returning,Card,4,457.71,1830.84
+1367,2024-08-10,North West,Beauty,Shampoo,Returning,Cash,3,311.1,933.3
+1368,2024-05-06,Northern Cape,Home,Iron,New,Card,2,531.83,1063.66
+1369,2024-07-12,Western Cape,Clothing,Jacket,Returning,Mobile Payment,1,506.59,506.59
+1370,2024-01-26,Gauteng,Home,Kettle,Returning,Mobile Payment,4,635.66,2542.64
+1371,2024-07-25,Western Cape,Clothing,Jacket,New,Cash,5,1237.52,6187.6
+1372,2024-06-21,Limpopo,Groceries,Bread,New,Mobile Payment,3,1206.43,3619.29
+1373,2024-01-21,KwaZulu-Natal,Beauty,Lotion,New,Card,1,610.68,610.68
+1374,2024-11-28,Gauteng,Groceries,Rice,New,Cash,3,418.3,1254.9
+1375,2024-08-22,North West,Groceries,Rice,Returning,EFT,4,748.48,2993.92
+1376,2024-02-18,Northern Cape,Clothing,Jacket,New,Card,1,1025.99,1025.99
+1377,2024-11-22,Limpopo,Beauty,Perfume,Returning,EFT,5,628.22,3141.1
+1378,2024-06-03,Free State,Clothing,T-Shirt,New,Mobile Payment,4,957.53,3830.12
+1379,2024-04-18,North West,Groceries,Cooking Oil,New,Card,4,1158.49,4633.96
+1380,2024-01-29,Limpopo,Groceries,Rice,New,Mobile Payment,3,774.44,2323.32
+1381,2024-08-23,Mpumalanga,Electronics,Phone Charger,New,Cash,1,330.11,330.11
+1382,2024-02-07,Eastern Cape,Electronics,Smart Watch,Returning,EFT,2,912.46,1824.92
+1383,2024-06-19,Mpumalanga,Electronics,Smart Watch,Returning,Cash,4,1499.62,5998.48
+1384,2024-10-26,Free State,Home,Microwave,New,Cash,4,1348.89,5395.56
+1385,2024-08-09,Eastern Cape,Beauty,Lotion,New,Card,3,1344.75,4034.25
+1386,2024-02-18,Northern Cape,Clothing,Jacket,New,Cash,2,784.05,1568.1
+1387,2024-05-06,Free State,Groceries,Milk,New,EFT,5,1069.59,5347.95
+1388,2024-09-25,Eastern Cape,Clothing,Jacket,New,Card,4,734.56,2938.24
+1389,2024-05-28,Western Cape,Beauty,Perfume,Returning,Cash,1,1036.56,1036.56
+1390,2024-07-14,Mpumalanga,Electronics,Phone Charger,New,Card,3,330.09,990.27
+1391,2024-08-08,Gauteng,Home,Kettle,Returning,Mobile Payment,2,1037.18,2074.36
+1392,2024-01-02,North West,Groceries,Rice,New,EFT,4,1139.68,4558.72
+1393,2024-08-15,Eastern Cape,Electronics,Headphones,Returning,Card,4,1267.69,5070.76
+1394,2024-08-21,Mpumalanga,Electronics,Phone Charger,New,Mobile Payment,2,1089.96,2179.92
+1395,2024-06-10,Free State,Home,Iron,Returning,Cash,5,692.55,3462.75
+1396,2024-08-30,Northern Cape,Beauty,Perfume,New,Cash,3,543.15,1629.45
+1397,2024-01-10,Mpumalanga,Beauty,Lotion,New,Cash,3,421.64,1264.92
+1398,2024-02-02,Free State,Electronics,Phone Charger,New,EFT,2,1063.49,2126.98
+1399,2024-09-05,Eastern Cape,Clothing,T-Shirt,New,Cash,4,225.21,900.84
+1400,2024-11-21,North West,Home,Microwave,Returning,Cash,5,1165.23,5826.15
